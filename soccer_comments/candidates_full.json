@@ -1,0 +1,2708 @@
+{
+  "Evidence-Based Take": [
+    {
+      "id": "mt3nkr9",
+      "body": "Conte and Tuchel frequently played 3 ATB, as does Glasner.\n\nAlso, any wingback should be good enough to either become a fine defensive winger or a fine offensive fullback imo.\n\nAnd basically every formations uses some sort of 2-3 or 3-2 formation in deep possession or build-up anyway…",
+      "score": 12,
+      "permalink": "/r/soccer/comments/1kq71mp/daily_discussion/mt3nkr9/",
+      "author": "skylu1991",
+      "created_utc": 1747652005,
+      "source_query": "possession.json"
+    },
+    {
+      "id": "mrya68k",
+      "body": "I'm not claiming these are metrics to decide that Arsenal are the best team in the CL. I'm just giving my perspective as to why Arteta believes they were.\n\nAs far as some of the stats in the second leg; Arsenak had 19 shots to PSG's 11, had 55 per cent of possession, and had an xG of 3.2 to PSG's 1.7. That's the sort of things he's probably thinking about when he said it. He reckons that we failed to go through because Donnarumma had 2 outstanding games.\n\nUltimately though football can't be distilled down to stats and metrics, some of it is gut feeling and belief. If Arteta says he feels we were the best team in the CL then I believe he really thinks so.",
+      "score": 5,
+      "permalink": "/r/soccer/comments/1kkw7jh/daily_discussion/mrya68k/",
+      "author": "Hejgelig",
+      "created_utc": 1747072892,
+      "source_query": "xg.json"
+    },
+    {
+      "id": "msz4ztn",
+      "body": "That's another way, for that we have to merge with team stats too but problem is we're using general team possession (regardless of variance of possession with/out the player, wouldn't make a big difference).\n\nBetter way would be adjusting to share of team's stats I think.  \nprogressive passes/carry as a % of team's total progressive pass/carry\n\nadjust to touches is just the most convenient way as it adjust for opportunity a player may have.",
+      "score": 2,
+      "permalink": "/r/soccer/comments/1kphsiu/ball_progression_by_defenders_26_and_under_big_5/msz4ztn/",
+      "author": "InitialSubstantial67",
+      "created_utc": 1747585402,
+      "source_query": "stats.json"
+    },
+    {
+      "id": "msl4tr6",
+      "body": "I've seen someone introduce baseball-like sabermetrics to football and it was quite interesting. You could see various data beyond the usual xG, xA, 'chances created' or 'progressive carries'. Such as which player is the most influential to wins when he starts compared to when he doesn't, and players that provide the most impact in proportion to the time their team possessed the ball.\n\nIt was also notable that three players absolutely dominated every single one of these metrics over time- Pele, Maradona, Messi. Visualization via graphs or tables had all three of them on the top, with a vast gap between them and any other player. Makes you think about the relations between mathematical stats and actual acclaim.",
+      "score": 1,
+      "permalink": "/r/soccer/comments/1kn7mbg/daily_discussion/msl4tr6/",
+      "author": "grahamcrackersnumber",
+      "created_utc": 1747379460,
+      "source_query": "xg.json"
+    },
+    {
+      "id": "msu0oom",
+      "body": "That's because they don't consider the game state. Palace scored early from a low xG shot and chose to sit back for the rest of the game. City would naturally have more possession and get off more shots leading to a higher xG",
+      "score": 7,
+      "permalink": "/r/soccer/comments/1koqb7h/daily_discussion/msu0oom/",
+      "author": "icotyne",
+      "created_utc": 1747507050,
+      "source_query": "xg.json"
+    },
+    {
+      "id": "msn2d0v",
+      "body": "Points is a better indicator overall because it’s an objective measure of performance. \n\nFinishing 2nd with 74 points in a season where all the top teams are weak vs. finishing 2nd with 97 points in a historical league campaign are NOT the same. I don’t think anyone can sanely argue that 2021 United was of equal caliber to 2019 Liverpool but their position in the table was the same.\n\nThere are a lot of metrics that can provide additional clarity as well such as goal difference or even more advanced stats like xG and xGA but looking at a surface level points is broadly speaking a fair indicator of a team’s quality.\n\nTeams in the 60-70 points range are Europa League caliber which is exactly what United have been winning that competition once while only making it to the CL knockouts 4 times in 12 seasons and only the QF one time. You can debate whether that’s mid table or not but you can’t deny that EXACTLY where Manchester United are as a club.",
+      "score": -1,
+      "permalink": "/r/soccer/comments/1knx3bp/sir_jim_ratcliffe_fortune_slashed_by_65billion/msn2d0v/",
+      "author": "Pure_Context_2741",
+      "created_utc": 1747409349,
+      "source_query": "xg.json"
+    },
+    {
+      "id": "msiybmz",
+      "body": "Yeah that’s a great point. With a clear philosophy, a club can change coach and staff without much friction. A good example besides Barca is how Liverpool does well after Klopp with Slot (coaches with same possession/pressing idea)\n\nA contrasting example of going horribly wrong by not having a clear philosophy is Man United after Sir Alex, they went from Moyes (cross and inshallah) to Van Gaal (positional, but did not have compatible players), to Mou and Sols (counter attack) to Ten Gag (positional again) and now Amorim (back 3), basically the new coach is always cleaning the aftermath of the previous and rarely have the right player for his system.\n\nAnother example of not having a fixed idea but still do well is Real. But that only works when you have individuals of extremely good quality and a coach with good star management and tactical adaptability (Carlo, Zidane)",
+      "score": 74,
+      "permalink": "/r/soccer/comments/1knjzol/fc_barcelona_are_the_winners_of_la_liga_2425/msiybmz/",
+      "author": "Temporary-Tale-6752",
+      "created_utc": 1747346719,
+      "source_query": "tactical.json"
+    },
+    {
+      "id": "mstvcc9",
+      "body": "- Crystal Palace has won a major trophy for the first time in its history and is the 45th team to win the FA Cup. An incredible feat for them, well earned.  \n- Palace knew they wouldn't get many chances, but they made one count. Brilliant counterattack for the goal! And of course, it's Eberechi Eze who scored it. Munoz and Richards were amazing. They wanted it more\n- Like usual, City dominated possession, put pressure on, and dominated all the stats, except the one that matters. Haaland and Foden ghosted like a Tinder date as usual and Doku was double-teamed and shut down. Pep is so over it, buddy can't wait to hit that oceanfront property in Cancun\n- Dean Henderson usually waits for random league fixtures (or against United) to turn into Gordon Banks but he was immense today. That penalty save on Marmoush was just one of several big saves he made. So happy for him!\n- Oliver Glasner winning the FA Cup in his first season with Palace is an incredible achievement. And he did it with no transfer window!  \n- It took 125 years and 100 minutes, but Crystal Palace have finally won a major trophy. Better late than never. Exceptional hatewatch",
+      "score": 69,
+      "permalink": "/r/soccer/comments/1koygl7/postmatch_thread_crystal_palace_10_manchester/mstvcc9/",
+      "author": "NoScopeMusical",
+      "created_utc": 1747505259,
+      "source_query": "possession.json"
+    },
+    {
+      "id": "mt0biqq",
+      "body": "xG is a pre-shot metric, it is taken as the quality of the chance. The goalkeeper has nothing to do with it, it is the defenders or the midfielders that have to prevent shots with high quality.",
+      "score": 17,
+      "permalink": "/r/soccer/comments/1kprrhq/fotmob_villareal_managed_to_score_3_goals_against/mt0biqq/",
+      "author": "AadiSahni",
+      "created_utc": 1747598879,
+      "source_query": "xg.json"
+    },
+    {
+      "id": "msl5glf",
+      "body": "It is true that the Belgian attacking midfielder has instructed his lawyers to speak directly with the club, without any commissions whatsoever. And this has allowed a reasonable path to an agreement to be identified: a two-year contract worth around 6 million net per season. Despite the lack of benefits from the growth decree, in fact, Napoli can afford this luxury, considering that the City star would substantially reduce his salary: the wealthy Emirati owners, in fact, guaranteed him a salary of 13 million net per season. It is clear, however, that the arrivals must be agreed with the Napoli coach and on this front there are aspects that still need to be clarified. As for De Bruyne, no one can discuss his technical value, but tactical nuances come into play. The current formation of Conte's Napoli includes fast wingers, without the help of an attacking midfielder. And the Belgian cannot be asked to play as a half-winger with defensive duties. In any case, these are aspects that will have to be evaluated in the coming weeks, when the duel with Inter will have definitively decreed the winner.",
+      "score": 16,
+      "permalink": "/r/soccer/comments/1knuqrw/la_gazzetta_dello_sport_napoli_make_offer_to_sign/msl5glf/",
+      "author": "MrMerc2333",
+      "created_utc": 1747379849,
+      "source_query": "tactical.json"
+    },
+    {
+      "id": "msx83il",
+      "body": "A team that sits back and only concedes long shot will have a keeper that will wildly overperform xGOT, a team that is always in opposition box and concedes a number of high quality chances the keeper will struggle to save these better chances. Donnarumma can't farm low xG shots because other teams don't take them, so he only faces high xG chances (like yesterday where his only shot on target conceded is the goal from a 1 on 1) compared to Leon yesterday who had a block of 9 players in front of him so he had much easier saves. Donnarumma wildly underperforms in this stat yesterday because Auxerre had one real chance and scored it, and played with 9 men in the box as most teams do against PSG.",
+      "score": 10,
+      "permalink": "/r/soccer/comments/1kp82m6/fotmobtop_10_best_ligue_1_goalkeepers_in_the/msx83il/",
+      "author": "MorbidlyObeseBrit",
+      "created_utc": 1747555233,
+      "source_query": "xg.json"
+    },
+    {
+      "id": "mssikvc",
+      "body": "I mean I think there's a lot of things that go into keeping. The stats follow what I (and most people that watch him regularly) think about Martinez. I don't think he's an average shot stopper full stop but he's been an average shot stopper in the PL for the last two seasons. I don't think he's been top 10 in the world at all honestly, bar international football.\n\nObviously being clutch is a big deal in tournament football, but tournament football isn't the biggest bit of Villa's season. If they miss the CL I'm sure they'll be wishing they'd had a few more points in the league.\n\nI like Bart but he's been pretty error prone this season. He's a good keeper overall and he's getting better quickly, but he's cost us a lot of points. If you make a decent amount of stops but have a few howlers on 0.05 xG shots your numbers tank.",
+      "score": 6,
+      "permalink": "/r/soccer/comments/1kof9kv/emi_martinez_waving_to_the_villa_park_crowd_with/mssikvc/",
+      "author": "shevek_o_o",
+      "created_utc": 1747489223,
+      "source_query": "xg.json"
+    },
+    {
+      "id": "msegg92",
+      "body": "He’s underperforming his xG this season as well, while Gakpo overperforms his again.\n\nI don’t have anything against Kudus, he’s a great player to watch. I just wouldn’t take him over Gakpo and I think there’s a reason why he ended up at West Ham in the first place. I’ve heard as much about his work rate and pressing from your fan base as well. \n\nDoku is even better than Kudus in terms of dribbling statistically and I wouldn’t take him over Gakpo either.",
+      "score": 2,
+      "permalink": "/r/soccer/comments/1kmr4wk/fabrizio_romano_sérgio_conceiçãos_chapter_at_ac/msegg92/",
+      "author": "AntonioBSC",
+      "created_utc": 1747286293,
+      "source_query": "xg.json"
+    },
+    {
+      "id": "msgswrt",
+      "body": "Yeah, though I do think the better question with him might be \"whose to say Liverpool want him to defend more?\" \n\nBradley was already more of a runner and an overlapping fullback than Trent, even though yes, he's more defensively impressive than Frimpong. If they're going for another fullback who in the attacking phase plays a touch higher up the pitch and is a runner, then I wouldn't be shocked if we see their tactics shift next season. \n\nTheir single biggest issue this year in big games was Salah. He wasn't tracking back, and that was clearly a tactical directive but, it hurt them. Livramento's runs from left back pretty much won us the final and Mendes did the same for PSG to knock them out of the CL. \n\nIt wouldn't shock me if their system changed quite a bit this summer to compensate for that. I imagine that's the idea behind Frimpong more than anything else, and Bradley is going to have to shift slightly more towards Frimpong's game, rather than Frimpong shifting to be a more traditional fullback.",
+      "score": 2,
+      "permalink": "/r/soccer/comments/1kn7mbg/daily_discussion/msgswrt/",
+      "author": "JackAndrewThorne",
+      "created_utc": 1747323879,
+      "source_query": "tactical.json"
+    },
+    {
+      "id": "msu1l6f",
+      "body": "I interpret them as \"possession means fuck all if you don't do anything with it\" and \"xG means fuck all if you don't actually score\". People need to stop acting as if they're the most important stats because they're not. The most important stats are goals and assists, always have been and always will be.",
+      "score": 1,
+      "permalink": "/r/soccer/comments/1koqb7h/daily_discussion/msu1l6f/",
+      "author": "Scattered97",
+      "created_utc": 1747507354,
+      "source_query": "xg.json"
+    },
+    {
+      "id": "mstzzfk",
+      "body": "The Cup final showed just how useless possession and xG stats really are. Palace won with 22% possession and 0.96 xG. Bloody love it!",
+      "score": -5,
+      "permalink": "/r/soccer/comments/1koqb7h/daily_discussion/mstzzfk/",
+      "author": "Scattered97",
+      "created_utc": 1747506814,
+      "source_query": "xg.json"
+    },
+    {
+      "id": "mt01nkw",
+      "body": "How did they concede 1.77 xG from 7 shots?",
+      "score": 81,
+      "permalink": "/r/soccer/comments/1kprrhq/fotmob_villareal_managed_to_score_3_goals_against/mt01nkw/",
+      "author": "Pinky1337",
+      "created_utc": 1747595664,
+      "source_query": "xg.json"
+    },
+    {
+      "id": "msffvkz",
+      "body": "You just need to look at the amount of american posters with ridicolous takes, and obsessed with stats like xG. The same people who desperately want a superleague since they only care about big franchise teams.",
+      "score": 36,
+      "permalink": "/r/soccer/comments/1kn23kl/mn_the_anger_of_the_ac_milan_fans_after_the_final/msffvkz/",
+      "author": "worker-parasite",
+      "created_utc": 1747306990,
+      "source_query": "xg.json"
+    },
+    {
+      "id": "msp2pxm",
+      "body": "I mean we have one of the best defensive records in the league despite sanchez best efforts, and have massively underperformed our XG, while im not his biggest fan, I would keep him, who else is there anyway?",
+      "score": 20,
+      "permalink": "/r/soccer/comments/1koc413/postmatch_thread_chelsea_10_manchester_united/msp2pxm/",
+      "author": "ZebraQuality",
+      "created_utc": 1747431056,
+      "source_query": "xg.json"
+    },
+    {
+      "id": "msg6cd2",
+      "body": "I think there are a lot of differences between now and then.\n\nIt's faster now with more pressing. I think there is a lot more tactical awareness and discipline from the players now, which reduces the chances for individual 'flair' players to have their moments. Most players are more technically gifted and quicker too, so when a mistake is made it is also more likely to be punished. \n\nWhen I watch some old games and great moments of play you sometimes wonder why they have so much time and space.",
+      "score": 16,
+      "permalink": "/r/soccer/comments/1kn7ipt/ft_john_burnmurdoch_changes_from_20002025_in/msg6cd2/",
+      "author": "Sir_Bantersaurus",
+      "created_utc": 1747317104,
+      "source_query": "tactical.json"
+    },
+    {
+      "id": "mscdke0",
+      "body": "Real Madrid absolutely cared. You can say many things about them, but they tried everything up their sleeve: long shots, lay-offs, crosses, dribbles... You name it. The ball just wouldn't go in, and their absurd shot numbers and xG show it.",
+      "score": 15,
+      "permalink": "/r/soccer/comments/1kmr0zp/post_match_thread_real_madrid_21_mallorca_laliga/mscdke0/",
+      "author": "The_Vulgar_Bulgar",
+      "created_utc": 1747258540,
+      "source_query": "xg.json"
+    },
+    {
+      "id": "mska4c5",
+      "body": "Alright, you are clearly trolling but I’ll bite. You were saying that Xavi was a mediocre manager because he spent 2 years in Europa. \n\nIn his first season, Klopp didn’t even manage to qualify his team for Europe. Xavi got the team from 9th to 2nd after taking over in mathday 12. Klopp got his team in 7th place and took them to 8th. There was not much Xavi could have done realistically after receiving the club in such a sorry state. \n\nThe next year he had the luxury of not worrying about Europe. Xavi managed to get his team to the UCL. Yeah, we crashed out but at least we got there. \n\nXavi was building a squad, a good squad that Flick has benefitted from. Like I said I very much doubt Flick would have this Barcelona playing this well with the squad Xavi had 3 and a half years ago. Similarly, Klopp after 3 seasons, with the addition of quality pieces such as Van Dijk and Alisson, was playing a hell if a lot better than when he first got in. Building a squad takes time. Not just to add new players but for the team to absorb tactical ideas. \n\nlol? Who cares how old Lewy is as long as he’s performing well? How old are you? 12? Go to bed kid. I’m done with you.",
+      "score": 15,
+      "permalink": "/r/soccer/comments/1knnlfq/romano_lamine_yamal_id_like_to_thank_xavi_without/mska4c5/",
+      "author": "GrantInwood",
+      "created_utc": 1747364196,
+      "source_query": "tactical.json"
+    },
+    {
+      "id": "mt0l5ry",
+      "body": "Didn't really like the foul call at the end. Parma player didn't have possession and basically tackled the Napoli player, got the ball first and then there was contact. Can't see how it's a foul",
+      "score": 14,
+      "permalink": "/r/soccer/comments/1kpu8ff/post_match_thread_parma_00_napoli_italian_serie_a/mt0l5ry/",
+      "author": "sitsokx",
+      "created_utc": 1747601921,
+      "source_query": "possession.json"
+    },
+    {
+      "id": "msruy8k",
+      "body": "these are the stats we need, xG and all that shit is woke nonsense",
+      "score": 13,
+      "permalink": "/r/soccer/comments/1kopylx/optajoe_2011_tyrique_george_is_the_first_player/msruy8k/",
+      "author": "thelonesomedemon1",
+      "created_utc": 1747478461,
+      "source_query": "xg.json"
+    },
+    {
+      "id": "msu37yh",
+      "body": "I hereby curse Wolves to have 22% possession and 0.83xG for the rest of time",
+      "score": 12,
+      "permalink": "/r/soccer/comments/1koqb7h/daily_discussion/msu37yh/",
+      "author": "PosterOfQuality",
+      "created_utc": 1747507911,
+      "source_query": "possession.json"
+    },
+    {
+      "id": "msf6el0",
+      "body": "Last season we over performed our xG and were in a better position where we shouldn't have been. \n\nThis season we have massively under performed our xG and are in a position where we shouldn't be. \n\nThere have been so many games where we were the better team than the opponent but our forwards have had a horrible season and have missed literally open goals left, right and center. Plus the injuries that we have had last season and this season have been a crucial factor as well. \n\nNext season will be defined by how we do in the sumner transfer window. \n\nUtter bollocks that you are blaming the manger who didn't even want to join mid season in the first place. Also the same manager who from his first press conference has been saying that we will suffer, it will get even worse before we get better. \n\nGive him time. He is still working with a squad made by previous three/four managers. \n\nAlways look at Arteta and Arsenal. Where they were when he took over, how much money and time he has had to bring them where they are today. His first two full seasons, they were 8th with fans all asking for his sacking.",
+      "score": 10,
+      "permalink": "/r/soccer/comments/1kn3ftk/man_utd_dyche_claims_hed_win_more_games_than/msf6el0/",
+      "author": "Exotic_Ad1030",
+      "created_utc": 1747301907,
+      "source_query": "xg.json"
+    },
+    {
+      "id": "msxyp2t",
+      "body": "I really enjoyed our 3-4-1-2 from the promotion campaign.\n\nBut for the fact the wingbacks need to be absolute unicorns like Daniel Munoz or Denzel Dumfries, I'd be willing to call it the best system around.\n\nIt's so hard to press because of the extra width at the back. It has so much verticality which means direct transitions are always a threat. The extra defender usually provides aerial threat at set pieces.\n\nThe problems in possession are real though. Dropping the wingers provides less penetration and creates fewer overloads. Those players who force defences to go 2v1 are removed.",
+      "score": 9,
+      "permalink": "/r/soccer/comments/1kpgheq/daily_discussion/msxyp2t/",
+      "author": "FaustRPeggi",
+      "created_utc": 1747570590,
+      "source_query": "possession.json"
+    },
+    {
+      "id": "ms2k472",
+      "body": "Against West Ham is not the best example but compared to last season when we were being bombarded with shots and couldn’t get out of our half, in most of last matches we dominated and ended up with a higher XG.\n\nThe difference was made in the fact that we don’t have a similar profile to Garnacho who can run in behind and is fast and while he got every match at least 2 big scoring opportunities, most of them were missed. All this while the opposition managed to score from their first shot because of a misplaced pass.",
+      "score": 8,
+      "permalink": "/r/soccer/comments/1klhsgm/manchester_united_intend_to_keep_amorim_even_if/ms2k472/",
+      "author": "theoo27",
+      "created_utc": 1747134130,
+      "source_query": "xg.json"
+    },
+    {
+      "id": "mszw88p",
+      "body": "La Liga defenders are running out of time to live up to the predictions and expectations of Reddit. Only 1 more match day to impose their defensive tactical superiority on Kylian.",
+      "score": 8,
+      "permalink": "/r/soccer/comments/1kpr1ai/sevilla_0_1_real_madrid_k_mbappé_75/mszw88p/",
+      "author": "yandisigenu",
+      "created_utc": 1747593927,
+      "source_query": "tactical.json"
+    },
+    {
+      "id": "msimgpe",
+      "body": "He takes a lot of low xG shots from outside the box tbf. If he starts to get himself in a better shooting position closer to the goal that alone would make his goalscoring improve",
+      "score": 7,
+      "permalink": "/r/soccer/comments/1knitfr/espanyol_0_1_barcelona_lamine_yamal_53_great_goal/msimgpe/",
+      "author": "Environmental_Sell74",
+      "created_utc": 1747343052,
+      "source_query": "xg.json"
+    },
+    {
+      "id": "msfouun",
+      "body": "I'd like to know too. I think I read that even if a chance has no xG it can still be a big chance. For example when someone is through one on one but the defender recovers to make a tackle before the shot is taken.",
+      "score": 7,
+      "permalink": "/r/soccer/comments/1kn63re/squawka_most_big_chances_created_from_openplay_in/msfouun/",
+      "author": "FRiver",
+      "created_utc": 1747310895,
+      "source_query": "xg.json"
+    },
+    {
+      "id": "mstix1u",
+      "body": "the reason city can have 80% possession is because of these silly tactical fouls",
+      "score": 7,
+      "permalink": "/r/soccer/comments/1kovbqa/match_thread_crystal_palace_vs_manchester_city_fa/mstix1u/",
+      "author": "SubparCurmudgeon",
+      "created_utc": 1747501323,
+      "source_query": "tactical.json"
+    },
+    {
+      "id": "ms81ccx",
+      "body": "It's really not that worrying as you're portraying it to be. Flick himself said they'd work on defensive structure in the preseason but couldn't do so currently as there's simply too many matches to introduce such big tactical changes.",
+      "score": 7,
+      "permalink": "/r/soccer/comments/1kltldd/kroos_on_el_clásico_even_after_the_20_i_had/ms81ccx/",
+      "author": "Fit-Owl-2898",
+      "created_utc": 1747200248,
+      "source_query": "tactical.json"
+    },
+    {
+      "id": "mt37ioq",
+      "body": "It is largely a match for Ajax, it's just that the club and the fans are more used to/almost expect a high press, front foot version of controlling possession, while Farioli has been more of a sit back and soak pressure while drawing the attackers in (in the build up) version of controlling possession.",
+      "score": 7,
+      "permalink": "/r/soccer/comments/1kq3iy9/francesco_farioli_in_tears_after_possibly_his/mt37ioq/",
+      "author": "Sunstridr",
+      "created_utc": 1747642302,
+      "source_query": "possession.json"
+    },
+    {
+      "id": "msu3jdp",
+      "body": "game state matters, but I feel it's also misinterpreted sometimes. I'm not sure it actually changed much at all throughout the game today for example, Palace sat deep from minute 1 to minute 90, not just because it was their gameplan but also because City stopped them from building up and controlled transitions really well overall. There's no indication that City scoring first instead of Palace would've resulted in Palace generating better opportunities throughout the game than City.\n\nin general I agree in principle, xG is not reliable for a single game because of flaws like game state (+can be skewed by penalites, also doesn't consider situations where the attacker doesn't take the shot etc). But tbh I think for this instance the xG stats are a reasonable reflection of the game.",
+      "score": 6,
+      "permalink": "/r/soccer/comments/1koqb7h/daily_discussion/msu3jdp/",
+      "author": "TenGraves",
+      "created_utc": 1747508019,
+      "source_query": "xg.json"
+    },
+    {
+      "id": "msbu994",
+      "body": "Ten Hag didn't have a great hand at his disposal but I  don't think he should be completely exonerated from crisisism because of that. His tactics were suicidal and in the xg table we finished last season in a similar position to our actual position this season. I don't think that means he will be a bad Leverkusen coach but even with the two trophies his stint at United was a disaster and I don't think I have seen many teams at tactically naive and mentally fragile as that one.",
+      "score": 6,
+      "permalink": "/r/soccer/comments/1kmfa7n/whitwell_erik_ten_hag_former_manchester_united/msbu994/",
+      "author": "men_with-ven",
+      "created_utc": 1747252682,
+      "source_query": "xg.json"
+    },
+    {
+      "id": "mt42f1w",
+      "body": "You're welcome !\n\nIt's also his first full season with real stats backing his underlying numbers, and it's also at the same time the season where he has drastically improved in his off the ball and defensive efforts that were not enough and a liability to his team before.",
+      "score": 6,
+      "permalink": "/r/soccer/comments/1kq7u4j/rayan_cherki_21_was_in_tears_after_lyons_last/mt42f1w/",
+      "author": "GoneMirifica",
+      "created_utc": 1747658529,
+      "source_query": "stats.json"
+    },
+    {
+      "id": "mszo39v",
+      "body": "If PSG wins the UCL Dembele is 100% winning it, and I still see Raphinha ahead of Lamine. The impact Rafa had in the first half of the season, not only with stats but also being the leader of the team, was impressive and very unexpected.",
+      "score": 6,
+      "permalink": "/r/soccer/comments/1kpoprz/match_thread_barcelona_vs_villarreal_laliga/mszo39v/",
+      "author": "Kaiser-32",
+      "created_utc": 1747591331,
+      "source_query": "stats.json"
+    },
+    {
+      "id": "mst7qji",
+      "body": "Playing with three midfielders who lack any defensive qualities is tactical suicide from Pep.",
+      "score": 6,
+      "permalink": "/r/soccer/comments/1kovbqa/match_thread_crystal_palace_vs_manchester_city_fa/mst7qji/",
+      "author": "DavidRolands",
+      "created_utc": 1747497700,
+      "source_query": "tactical.json"
+    },
+    {
+      "id": "msxuati",
+      "body": "Players in big possession oriented clubs see more of the ball than those playing in small clubs. For eg a player in Barcelona is likely to get more touches than those in Leganes on average. So this way, we can see how they fair when their touches are normalized. Of course they maybe caveats. But still a good starting point.",
+      "score": 6,
+      "permalink": "/r/soccer/comments/1kphsiu/ball_progression_by_defenders_26_and_under_big_5/msxuati/",
+      "author": "InitialSubstantial67",
+      "created_utc": 1747568514,
+      "source_query": "possession.json"
+    },
+    {
+      "id": "mst58f3",
+      "body": "So typical, all that possession and shots. And yet they score lol.",
+      "score": 6,
+      "permalink": "/r/soccer/comments/1kovbqa/match_thread_crystal_palace_vs_manchester_city_fa/mst58f3/",
+      "author": "Heavy_Cupcake_6246",
+      "created_utc": 1747496896,
+      "source_query": "possession.json"
+    },
+    {
+      "id": "msxtu47",
+      "body": "Future EPL season champions to be decided by a sophisticated Monte Carlo simulation with teams ranked by their xG - xGA.",
+      "score": 5,
+      "permalink": "/r/soccer/comments/1kphda2/match_thread_everton_vs_southampton_english/msxtu47/",
+      "author": "cemereth",
+      "created_utc": 1747568281,
+      "source_query": "xg.json"
+    },
+    {
+      "id": "mst5mlx",
+      "body": "who cares about the result as long as we have possession and xG locked down 💪💪",
+      "score": 5,
+      "permalink": "/r/soccer/comments/1kovbqa/match_thread_crystal_palace_vs_manchester_city_fa/mst5mlx/",
+      "author": "graspthefuture",
+      "created_utc": 1747497021,
+      "source_query": "xg.json"
+    },
+    {
+      "id": "mszpzkh",
+      "body": "Again, stop playing thugs. You get less red cards.\n\nAnd when you tend to have possession all the time and play a high line there is a lot less activity in your own penalty box.\n\nAlso funny how the negreira story gets weaker every time something new comes out.\n\nOnly one team has been pressuring the referees non stop though. It clearly helps too.\n\nOne team always plays with a different set of rules.\n\nAgainst all odds 4-0 in head 2 head. Wonderful.",
+      "score": 4,
+      "permalink": "/r/soccer/comments/1kpp1p2/loic_bade_straight_red_card_against_real_madrid_12/mszpzkh/",
+      "author": "OneBall22Players",
+      "created_utc": 1747591928,
+      "source_query": "possession.json"
+    },
+    {
+      "id": "mstpdon",
+      "body": "Mate you failed to equalise with 80% possession and 23 shots including a penalty. That is not treble winning at all",
+      "score": 4,
+      "permalink": "/r/soccer/comments/1koygl7/postmatch_thread_crystal_palace_10_manchester/mstpdon/",
+      "author": "Uniform764",
+      "created_utc": 1747503368,
+      "source_query": "possession.json"
+    },
+    {
+      "id": "msu1mgx",
+      "body": "I love how it's never city's fault. It's always \"oh they didn't come here to have their starting XI all bomb forward while being 1-0 up\" or \"that one call decided the outcome of the game\"\n\nSuck it up pep, with an xG of 2.30, 23 shots and 6 on target, that's on the team.",
+      "score": 3,
+      "permalink": "/r/soccer/comments/1koyj11/an_unhappy_pep_guardiola_has_a_few_words_with/msu1mgx/",
+      "author": "iuselect",
+      "created_utc": 1747507366,
+      "source_query": "xg.json"
+    },
+    {
+      "id": "msp4an9",
+      "body": "You cite underperforming xG but you ignore we have massively overperformed xGA. We have also overperformed xPTS. And by eye test have been horrid for 6 months",
+      "score": 3,
+      "permalink": "/r/soccer/comments/1koc413/postmatch_thread_chelsea_10_manchester_united/msp4an9/",
+      "author": "Kakashicopyninja9",
+      "created_utc": 1747431575,
+      "source_query": "xg.json"
+    },
+    {
+      "id": "mszwath",
+      "body": "It's not about seeing out games imo. Arsenal have the best defensive record in the league. But this season are on track to score 20 goals less than last year. You can quote stats about dropping a lot of points from winning positions, but that ignores the fact that even the top PL teams will concede goals. Arsenal simply didn't score enough and often dropped points after not converting their chances.",
+      "score": 3,
+      "permalink": "/r/soccer/comments/1kppe5o/arsenal_have_qualified_for_the_202526_champions/mszwath/",
+      "author": "Narwhallmaster",
+      "created_utc": 1747593950,
+      "source_query": "stats.json"
+    },
+    {
+      "id": "mt36w0v",
+      "body": "Neres Is still recovering from his soleus iniury, also both out left CBs are injuried, so Conte, due to lack of valid subs, has switched to 532 from the 433. On a tactical level Is night and day, w 433 we're way more fluid and yes, Neres does make a difference, but to be fair during this emergency Raspa has been precious. Lets not forget that we lost Kvara too in january, and he has not being subbed in any way. \n\n\nBasically, due to injuries and an awful market session, our offensive potential has been cut in half, and the team Is beyond exhausted, despite having played half of Inter's games. If we manage to pull this off It will be a miracle fr, second half season Napoli has been a 5/6th place team, tops",
+      "score": 3,
+      "permalink": "/r/soccer/comments/1kpu7ss/serie_a_standings_with_one_game_left/mt36w0v/",
+      "author": "porcorosso1",
+      "created_utc": 1747641895,
+      "source_query": "tactical.json"
+    },
+    {
+      "id": "mst7f7d",
+      "body": "Tactical fouling when out of possession is such a shit and cynical way of playing football",
+      "score": 3,
+      "permalink": "/r/soccer/comments/1kovbqa/match_thread_crystal_palace_vs_manchester_city_fa/mst7f7d/",
+      "author": "NYR_dingus",
+      "created_utc": 1747497598,
+      "source_query": "tactical.json"
+    },
+    {
+      "id": "mst5a0i",
+      "body": "Ticky tacky possession based tactical football vs the power of friendship",
+      "score": 3,
+      "permalink": "/r/soccer/comments/1kovbqa/match_thread_crystal_palace_vs_manchester_city_fa/mst5a0i/",
+      "author": "niners0101",
+      "created_utc": 1747496910,
+      "source_query": "tactical.json"
+    },
+    {
+      "id": "msi1aad",
+      "body": "Utds fans also said for years that Bruno is the reason we can't play football. \n\nSo the sulking started some time last season? Or it was always there but it was more obvious last season? \n\nYou are the one making a claim mate you should be providing sources. \n\nAmad is a winger like saka.  His job isn't to stand on the last man.  Garnacho does about as much defensive work as Rashford did. \n\nI don't know what you mean by tactical masterplan. I said it was a basic tactic that many teams employ. \n\nOkie dokie",
+      "score": 3,
+      "permalink": "/r/soccer/comments/1knc39y/marcus_rashford_believes_manchester_united_would/msi1aad/",
+      "author": "AttemptImpossible111",
+      "created_utc": 1747336856,
+      "source_query": "tactical.json"
+    },
+    {
+      "id": "mstapq7",
+      "body": "Their terrorism was so bad that it was funny tbh. Seeing them somehow come away with a 1-0 win against a top team while having 30% possession and 2 shots on target was glorious",
+      "score": 3,
+      "permalink": "/r/soccer/comments/1kow21h/final_bundesliga_table_202425/mstapq7/",
+      "author": "A_Round_of_Gwent",
+      "created_utc": 1747498667,
+      "source_query": "possession.json"
+    },
+    {
+      "id": "mst6agn",
+      "body": "This is pure 2010 patter from the BBC commentary. The possession stat doesn't matter!",
+      "score": 3,
+      "permalink": "/r/soccer/comments/1kovbqa/match_thread_crystal_palace_vs_manchester_city_fa/mst6agn/",
+      "author": "sjekky",
+      "created_utc": 1747497234,
+      "source_query": "possession.json"
+    },
+    {
+      "id": "mt071mw",
+      "body": "Courtois made 21 saves against Liverpool in the final...\n\nAlso most possession based systems rely on outperforming xG, as the logic it to create so many chances that you score a few of them. Counter attacking based systems rely on xG, as the goal is to create a few but high quality chances and convert most of them.",
+      "score": 2,
+      "permalink": "/r/soccer/comments/1kpr6pc/barcelona_2_3_villarreal_tajon_buchanan_80/mt071mw/",
+      "author": "Dat_Boi_John",
+      "created_utc": 1747597434,
+      "source_query": "xg.json"
+    },
+    {
+      "id": "mt00e0l",
+      "body": "Yes, that's what I'm saying. Barca's players are good enough to outperform their xG with well placed shots. Like a Yamal curler with 3 defenders in front of him has very little xG value, but at this point is a lot more likely to go in than a normal inside the box shot which xG would value more.\n\nI consider a low xG shot that hit the post more valuable than a high xG one that was missed. Either way, goalkeeping was clearly the deciding factor for that tie. Sommer had one of the best goalkeeping performances in CL history in the second leg, while Tek was average.\n\n  \nMadrid won their recent CLs mostly on Courtois being a god. Until Barcelona can find someone who is 90% as good as him in the big moments, we aren't winning the CL trophy.",
+      "score": 2,
+      "permalink": "/r/soccer/comments/1kpr6pc/barcelona_2_3_villarreal_tajon_buchanan_80/mt00e0l/",
+      "author": "Dat_Boi_John",
+      "created_utc": 1747595258,
+      "source_query": "xg.json"
+    },
+    {
+      "id": "mszyqfu",
+      "body": "That's not true. xG doesn't tell the whole story. Barca hit the post at least 4 times from what I can remember and there were 2 shots only Sommer or Courtois would save. 2 of the goals Tek conceded in the first leg, Sommer would've saved (the corner goal where he was mispositioned and the 1-on-1), and the 4th goal in the second leg was a foul.",
+      "score": 2,
+      "permalink": "/r/soccer/comments/1kpr6pc/barcelona_2_3_villarreal_tajon_buchanan_80/mszyqfu/",
+      "author": "Dat_Boi_John",
+      "created_utc": 1747594731,
+      "source_query": "xg.json"
+    },
+    {
+      "id": "mszxt7p",
+      "body": "Their shots were much bigger quality than barcas. Like xg was similar but barca bad twice the shots. You are not winning the cl with letting inter have 3 one on ones",
+      "score": 2,
+      "permalink": "/r/soccer/comments/1kpr6pc/barcelona_2_3_villarreal_tajon_buchanan_80/mszxt7p/",
+      "author": "arnenatan",
+      "created_utc": 1747594435,
+      "source_query": "xg.json"
+    },
+    {
+      "id": "msxbgrn",
+      "body": "Those long shots will have low xG, so they wont matter all that much, unless you are facing dozen a game. Lucas Chevalier has \\~0.7 more saves/game, and many more goals prevented, per example. And Lille is hardly a team that sits back (3rd in possesion%).\n\n A shot from 30 meters and a shot from 3 meters dont carry the same xG. If you save 1v1s at an above average rate, you'll have positive PSxG-GoalsAgainst balance, even if your teams mostly only allows 1v1s.\n\nLast year, Donnarumma had 10-11 goals prevented. Its okay to admit he had a down year domestically, you can even contribute it to giving 0 fucks, considering the fact that PSG would walk to the title with Andrea Consigli in goal.",
+      "score": 2,
+      "permalink": "/r/soccer/comments/1kp82m6/fotmobtop_10_best_ligue_1_goalkeepers_in_the/msxbgrn/",
+      "author": "Then_Flamingo_8223",
+      "created_utc": 1747557369,
+      "source_query": "xg.json"
+    },
+    {
+      "id": "msu6fvl",
+      "body": "I mean, I thought Palace were reasonably comfortable to be honest, at least in the second half, and executed their game-plan brilliantly. They were never going to out-pass and out-attempt City, so judging a game like this by possession and xG is useless.",
+      "score": 2,
+      "permalink": "/r/soccer/comments/1koqb7h/daily_discussion/msu6fvl/",
+      "author": "Scattered97",
+      "created_utc": 1747508996,
+      "source_query": "xg.json"
+    },
+    {
+      "id": "mstvwjp",
+      "body": "Yeah I feel you and agree with everything you say. We also had a game vs Leipzig where we really should have won but didnt. Had like 13856136161 xG and mega dominated them, yet didnt win. \n\nI think this is shown in that \"xG table\" for this season. Leipzig finished horribly, but are still 3 table positions above where their stats have them. Which is insane.",
+      "score": 2,
+      "permalink": "/r/soccer/comments/1kovomw/squawka_serhou_guirassy_is_the_first_ever/mstvwjp/",
+      "author": "Qiluk",
+      "created_utc": 1747505444,
+      "source_query": "xg.json"
+    },
+    {
+      "id": "mstu5bh",
+      "body": "I agree but if he continuously over emphasizes play making and has had this issue of bajillion xG and bajillion shots on goal for the past decade, it's a little bit on him too.",
+      "score": 2,
+      "permalink": "/r/soccer/comments/1koyj11/an_unhappy_pep_guardiola_has_a_few_words_with/mstu5bh/",
+      "author": "DifferentiationBy",
+      "created_utc": 1747504870,
+      "source_query": "xg.json"
+    },
+    {
+      "id": "mss3r9g",
+      "body": "https://footystats.org/england/premier-league/xg\n\n\nThere we are 9th XG and better than 9th XGD, \n\n\nWe have better XGD than Aston Villa, Nothingham forest, Newcastle etc. \n\n\nIf you check difference between XG and Actual only Southampton underperform worse than us, ",
+      "score": 2,
+      "permalink": "/r/soccer/comments/1koiimi/optajoe_092_ruben_amorim_has_won_24_points_in_26/mss3r9g/",
+      "author": "Warm-Cartographer",
+      "created_utc": 1747483030,
+      "source_query": "xg.json"
+    },
+    {
+      "id": "mrxx2vp",
+      "body": "No lmao when you’re losing it’s easier to generate xg cos most opponents will sit back and allow shots the fact we’re not performing positively there is alarming",
+      "score": 2,
+      "permalink": "/r/soccer/comments/1kkqo3l/time_spent_and_expected_goal_differencexgd_in/mrxx2vp/",
+      "author": "Leading_Ad2159",
+      "created_utc": 1747069122,
+      "source_query": "xg.json"
+    },
+    {
+      "id": "mt1ljc7",
+      "body": "These stats are not meant to be taken in isolation. What is his season long xgot stat, and how does it compare to other laliga keepers?",
+      "score": 2,
+      "permalink": "/r/soccer/comments/1kprrhq/fotmob_villareal_managed_to_score_3_goals_against/mt1ljc7/",
+      "author": "MrCleanRed",
+      "created_utc": 1747614739,
+      "source_query": "stats.json"
+    },
+    {
+      "id": "msz7fv7",
+      "body": "Arteta must have emphasized the stats show they have significantly less possession in the front left third of the pitch.",
+      "score": 2,
+      "permalink": "/r/soccer/comments/1kpmo2n/match_thread_arsenal_vs_newcastle_united_english/msz7fv7/",
+      "author": "symptic",
+      "created_utc": 1747586194,
+      "source_query": "stats.json"
+    },
+    {
+      "id": "mt3jrxo",
+      "body": "I'll give you the third as savable but it's still quite a high xG on shot\n \ni mentioned the three touches because it encapsulates how much time the guy had to aim and shoot, which points to the real issue on that goal, him not being properly marked by a defender",
+      "score": 1,
+      "permalink": "/r/soccer/comments/1kprrhq/fotmob_villareal_managed_to_score_3_goals_against/mt3jrxo/",
+      "author": "crampton16",
+      "created_utc": 1747649959,
+      "source_query": "xg.json"
+    },
+    {
+      "id": "mt2fitm",
+      "body": "1.26 xg of 24 shots is abysmal",
+      "score": 1,
+      "permalink": "/r/soccer/comments/1kprrhq/fotmob_villareal_managed_to_score_3_goals_against/mt2fitm/",
+      "author": "Purneet",
+      "created_utc": 1747626582,
+      "source_query": "xg.json"
+    },
+    {
+      "id": "mt05yp3",
+      "body": "Bringing up the liverpool tie is hilarious because if it weren’t for him we are not winning that first leg. Also mags wanst on goal vs inter. And barca gave ul 2 one on ones vs inter which sommer isn’t saving he also isnt saving the 3rd goal because he’s like 183 cm tall and he definitely isnt savibg the 4th goal. Sommer is playing for a defensive side which blocks of angles to the goal and leads to easier saves check the xg.",
+      "score": 1,
+      "permalink": "/r/soccer/comments/1kpqi4t/barcelona_2_2_villarreal_santi_comesaña_51/mt05yp3/",
+      "author": "arnenatan",
+      "created_utc": 1747597080,
+      "source_query": "xg.json"
+    },
+    {
+      "id": "msq0f9j",
+      "body": "I don't know why that's relevant because I was just replying to this comment claiming Southampton played like peak Barca.\n\nBut yeah, if I remember the numbers correctly for the whole Amorims tenure in PL United has 30 xG and 36 xGA with 28 goals scored and 40 conceded.",
+      "score": 1,
+      "permalink": "/r/soccer/comments/1kocc87/squawka_two_more_unwanted_records_for_manchester/msq0f9j/",
+      "author": "BigBadEuroHomo",
+      "created_utc": 1747443884,
+      "source_query": "xg.json"
+    },
+    {
+      "id": "msiwhmo",
+      "body": "That's what I thought you meant but it doesn't make sense. I was not being a hyprocite, I agree Hojlund has been bad. I was just calling out the fact that you wrote an alphabet soup about how he's a stubborn coach but it all boils down to the fact that he doesn't have players who can score goals. Calling out Amorim despite this feels disingenuous since you can't really do anything if your players don't score goals. xG metrics (as flawed as they are) show that United have been dominating games more, as is shown compared to Ten hag era but the finishing has let us down in key moments.\n\n  \nHow many games would've gone drastically differently if Garnacho or Hojlund finished their chance in the 10th minute? Also, finding a good scorer isn't magical. Cunha and Delap are big improvements on that front.",
+      "score": 1,
+      "permalink": "/r/soccer/comments/1kn3ftk/man_utd_dyche_claims_hed_win_more_games_than/msiwhmo/",
+      "author": "ttonster2",
+      "created_utc": 1747346120,
+      "source_query": "xg.json"
+    },
+    {
+      "id": "msth5bx",
+      "body": "Playing with three midfielders who lack any defensive qualities is tactical suicide from Pep.",
+      "score": 1,
+      "permalink": "/r/soccer/comments/1koxk1d/ismaila_sarrs_offside_position_that_lead_to/msth5bx/",
+      "author": "DavidRolands",
+      "created_utc": 1747500755,
+      "source_query": "tactical.json"
+    },
+    {
+      "id": "mst3yjf",
+      "body": "Thing is, every single manager adapts their tactical ideas throughout every single game anyway - but that's a lot more difficult to spot than a change of formation and/or personnel for a one-off final, so Guardiola gets tagged with 'overthinker' when realistically he's doing the same thing everyone else is doing anyway. \n\nAnd it's hardly like he doesn't have the success to back this approach up either.",
+      "score": 1,
+      "permalink": "/r/soccer/comments/1koqb7h/daily_discussion/mst3yjf/",
+      "author": "sga1",
+      "created_utc": 1747496488,
+      "source_query": "tactical.json"
+    },
+    {
+      "id": "msm9ek0",
+      "body": "I agree but I DO want to see the Bradley/Frimpong double wide flank attack. I’ve seen that tactic work well against possession-based teams who defend narrow. It might not be an every week thing but I could see it being in the tactical locker so to speak.",
+      "score": 1,
+      "permalink": "/r/soccer/comments/1knzjz8/romano_jeremie_frimpong_and_liverpool_deal_at_the/msm9ek0/",
+      "author": "Pure_Context_2741",
+      "created_utc": 1747400303,
+      "source_query": "tactical.json"
+    },
+    {
+      "id": "msbhvbg",
+      "body": "Yeah Barca could but then again the fall has been consistent with the tactical shift, especially with the revenue model changing and how Bordelas and Simeone style of football became more and more popular \n\nBasically the fall of the average goals scored per match. Heck 2020-2023/24 la liga had the least goals scored in the top 5 leagues and became the most defensive league in the world, flicks arrival changed that thankfully, watching Xavi struggle to cross 80 goals was a pain",
+      "score": 1,
+      "permalink": "/r/soccer/comments/1kmfxf1/daily_discussion/msbhvbg/",
+      "author": "Puzzleheadpsych2345",
+      "created_utc": 1747249045,
+      "source_query": "tactical.json"
+    },
+    {
+      "id": "ms4sq3y",
+      "body": "I can't speak for all Spurs supporters but one singular trophy wouldn't paper over what has statistically been the worst league season in the club's history. I think Ange is a good guy and his heart is in the right place but he IS out of his depth at Spurs. He capitulated and lost what little tactical nous he had (anyone else remember Eric Dier saying that they didn't do any tactical work on the training ground at Spurs?) and has struggled to get the players up for it mentally.\n\nShould we win the UEL I'd be very happy but I've wanted Ange gone since December and this won't change that. Every dog has its day, every broken clock is right twice a day; beating United in the final would be a great accomplishment but won't retroactively excuse everything Ange has gotten wrong.",
+      "score": 1,
+      "permalink": "/r/soccer/comments/1klim6p/postecoglu_a_lot_of_the_success_ive_had_has_been/ms4sq3y/",
+      "author": "bencciarati",
+      "created_utc": 1747160124,
+      "source_query": "tactical.json"
+    },
+    {
+      "id": "mszzl5f",
+      "body": "The xg also takes into account the shots that hit the post and the reality is some of the shots barca had were not that high quality meanwhile inter had an open goal and a penalty and a goal from point like 5 meters out.",
+      "score": 0,
+      "permalink": "/r/soccer/comments/1kpr6pc/barcelona_2_3_villarreal_tajon_buchanan_80/mszzl5f/",
+      "author": "arnenatan",
+      "created_utc": 1747595005,
+      "source_query": "xg.json"
+    },
+    {
+      "id": "mst4miz",
+      "body": "And there’s always a million Argentinians ready to jump on even the mildest criticism of a very average keeper. \n\nBonnou and Livakovic both had less goals conceded, better saves per Xg, more crosses claimed. It’s all here [Almost every stat Morroco and Croatia come out higher than Argentina.](https://fbref.com/en/comps/1/keepersadv/World-Cup-Stats)",
+      "score": 0,
+      "permalink": "/r/soccer/comments/1kof9kv/emi_martinez_waving_to_the_villa_park_crowd_with/mst4miz/",
+      "author": "Penny_Leyne",
+      "created_utc": 1747496701,
+      "source_query": "xg.json"
+    },
+    {
+      "id": "mss30r2",
+      "body": "That's not really true, many many games your xg was less than 1.0. Has improved in the last few months, but still brutal. Your xg for the season is still firmly bottom half. 12th in xg and 14th in xga",
+      "score": 0,
+      "permalink": "/r/soccer/comments/1koiimi/optajoe_092_ruben_amorim_has_won_24_points_in_26/mss30r2/",
+      "author": "almirbhflfc",
+      "created_utc": 1747482682,
+      "source_query": "xg.json"
+    },
+    {
+      "id": "mstlemc",
+      "body": "The problem is the Law can't speculate on what is going to happen depending on how the player is, all you can do is go on what's happened.\n\nAnd when Henderson touches the ball, Haaland doesn't have possession and the ball is heading away from the goal. That's all they can make the decision on.",
+      "score": 0,
+      "permalink": "/r/soccer/comments/1kowc0n/dean_henderson_handball_outside_his_box_24/mstlemc/",
+      "author": "TheScarletPimpernel",
+      "created_utc": 1747502119,
+      "source_query": "possession.json"
+    },
+    {
+      "id": "msxv2v4",
+      "body": "I know we're joking, but if there was a method of quickly finding the xG of that chance and having hard data define if its denying a clear goalscoring opportunity, I'm all for it.\n\nWe all know the ref's just did it on vibes though.",
+      "score": -5,
+      "permalink": "/r/soccer/comments/1kpgw0q/dale_johnson_fa_cup_var_review_there_have_been/msxv2v4/",
+      "author": "HaroldSaxon",
+      "created_utc": 1747568894,
+      "source_query": "xg.json"
+    },
+    {
+      "id": "msjfr7q",
+      "body": "Not being obsessed by a stat like xG is a sign of lacking curiosity.",
+      "score": -6,
+      "permalink": "/r/soccer/comments/1kn23kl/mn_the_anger_of_the_ac_milan_fans_after_the_final/msjfr7q/",
+      "author": "esports_consultant",
+      "created_utc": 1747352816,
+      "source_query": "xg.json"
+    },
+    {
+      "id": "mspggcs",
+      "body": "xG of that game was 3.4-1.4, possession 60-40%, but yes Southampton looked like peak Barca.",
+      "score": -22,
+      "permalink": "/r/soccer/comments/1kocc87/squawka_two_more_unwanted_records_for_manchester/mspggcs/",
+      "author": "BigBadEuroHomo",
+      "created_utc": 1747436396,
+      "source_query": "xg.json"
+    },
+    {
+      "id": "msu6wmi",
+      "body": "Maybe the real footballing genius was his ex-wife all along? Without her tactical help Pep can't even guarantee CL football comfortably",
+      "score": 799,
+      "permalink": "/r/soccer/comments/1kp0e1n/dean_henderson_on_the_penalty_save_to_be_honest/msu6wmi/",
+      "author": "xyzzy321",
+      "created_utc": 1747509154,
+      "source_query": "tactical.json"
+    },
+    {
+      "id": "mszp7m8",
+      "body": "Mad stats but just makes you wonder whether Messi was really human when he completed 266 dribbles during the 2014/15 season",
+      "score": 613,
+      "permalink": "/r/soccer/comments/1kpq94g/sofascore_lamine_yamal_is_the_first_player_across/mszp7m8/",
+      "author": "cry_me_a_river_mate",
+      "created_utc": 1747591683,
+      "source_query": "stats.json"
+    },
+    {
+      "id": "mst5cok",
+      "body": "And why have 90% possession if you cant get a shot on goal",
+      "score": 517,
+      "permalink": "/r/soccer/comments/1kow2v8/crystal_palace_1_0_manchester_city_eberechi_eze_16/mst5cok/",
+      "author": "courtesyflusher",
+      "created_utc": 1747496933,
+      "source_query": "possession.json"
+    },
+    {
+      "id": "msxmxt3",
+      "body": "VAR pulled up his Post Shot xG in finals and decided nah",
+      "score": 387,
+      "permalink": "/r/soccer/comments/1kpgw0q/dale_johnson_fa_cup_var_review_there_have_been/msxmxt3/",
+      "author": "TherewiIlbegoals",
+      "created_utc": 1747564546,
+      "source_query": "xg.json"
+    },
+    {
+      "id": "mst8hef",
+      "body": "I can't think of any rivalry where the individuals balanced each other out so well. Pep playing the perfect, possession football with an almost religious devotion to Cruyffian principles, and Mourinho, a former friend of Guardiola who was almost like Satan in Paradise Lost. Someone who had coached at Barcelona but after being rejected in favour of Pep committed to playing the complete opposite style of football and joining their biggest rivals, where he toppled arguably the best side most of us have ever seen. \n\nIt's a shame that it ended up being such a damp squib when they were both in Manchester.",
+      "score": 195,
+      "permalink": "/r/soccer/comments/1kou71w/leo_messi_on_cristiano_ronaldo_it_was_a_golden/mst8hef/",
+      "author": "men_with-ven",
+      "created_utc": 1747497944,
+      "source_query": "possession.json"
+    },
+    {
+      "id": "mstum7j",
+      "body": "We didnt have as much of the control as they do, which resulted in a bit more space to attack on for him.\n\n My one complaint of Pep is that he seems to refuse to accept that sometimes its worth giving away possession to open up the other team a bit but he rather side-pass and pray-cross for 95min sometimes. \n\nThen again, what do I know.",
+      "score": 183,
+      "permalink": "/r/soccer/comments/1koyr69/whoscored_erling_haaland_has_now_failed_to_score/mstum7j/",
+      "author": "Qiluk",
+      "created_utc": 1747505023,
+      "source_query": "possession.json"
+    },
+    {
+      "id": "mt42tcf",
+      "body": "Also good dribbler - 2.48 successful take-ons per 90, 91st percentile for attackers/wingers.\n\nHow is his workrate? Stats don't show that.",
+      "score": 182,
+      "permalink": "/r/soccer/comments/1kq7u4j/rayan_cherki_21_was_in_tears_after_lyons_last/mt42tcf/",
+      "author": "PhD_Cunnilingus",
+      "created_utc": 1747658679,
+      "source_query": "stats.json"
+    },
+    {
+      "id": "msss6av",
+      "body": "I swear to God interviewers always ask the most boring and repeatitive questions. If I had the chance to ask a question to either of them it'd be something akin to \"what do you think was your best season as a player and why?\" or \"how did your role and position change throughout the years?\". \"What tactical input made everything click for you to become a world class player?\" \"Which individual players did you have the best chemistry with?\" \"If someone asked you what your best position was, what would you answer?\"\n\nI'd ask Ronaldo what helped him become such a prolific goalscorer in 07/08 or Messi about what was it specificially about Barcelona's set-up and his form in 11/12 that allowed him to achieve such inhuman numbers. It'd be so interesting to get some tactical insight from the two greatest players of all time regarding what helped them reach their absolute best.\n\nBut no, instead we get the same old tired dross about this rivalry.",
+      "score": 177,
+      "permalink": "/r/soccer/comments/1kou71w/leo_messi_on_cristiano_ronaldo_it_was_a_golden/msss6av/",
+      "author": "Radbevto",
+      "created_utc": 1747492633,
+      "source_query": "tactical.json"
+    },
+    {
+      "id": "mstqyxf",
+      "body": "The players are so drilled to play in that safe possession system that you’d think they forgot how to improvise sometimes. And that’s what you need to break out of these locked situations.",
+      "score": 115,
+      "permalink": "/r/soccer/comments/1koygl7/postmatch_thread_crystal_palace_10_manchester/mstqyxf/",
+      "author": "resurgum",
+      "created_utc": 1747503860,
+      "source_query": "possession.json"
+    },
+    {
+      "id": "msxncsn",
+      "body": "Wouldn't expect anything else from our refs, to pull up advanced stats before making a decision.\n\n\n\nThat's why they are the best.",
+      "score": 89,
+      "permalink": "/r/soccer/comments/1kpgw0q/dale_johnson_fa_cup_var_review_there_have_been/msxncsn/",
+      "author": "_doohdx",
+      "created_utc": 1747564795,
+      "source_query": "stats.json"
+    },
+    {
+      "id": "mt01o1o",
+      "body": "Weak sauce. Chukwueze scored a harboring against us from less than 1 combined xg when he was at Villarreal",
+      "score": 87,
+      "permalink": "/r/soccer/comments/1kprrhq/fotmob_villareal_managed_to_score_3_goals_against/mt01o1o/",
+      "author": "HokiesforTSwift",
+      "created_utc": 1747595668,
+      "source_query": "xg.json"
+    },
+    {
+      "id": "mt0e5mj",
+      "body": "If you watch the goals, the strikers were on a complete 1v1 in 2 of them, which is a big xG boost.",
+      "score": 73,
+      "permalink": "/r/soccer/comments/1kprrhq/fotmob_villareal_managed_to_score_3_goals_against/mt0e5mj/",
+      "author": "dani26795",
+      "created_utc": 1747599722,
+      "source_query": "xg.json"
+    },
+    {
+      "id": "msp08py",
+      "body": "tactical pitch invasion\n\nfucking love it",
+      "score": 63,
+      "permalink": "/r/soccer/comments/1koc413/postmatch_thread_chelsea_10_manchester_united/msp08py/",
+      "author": "SubparCurmudgeon",
+      "created_utc": 1747430263,
+      "source_query": "tactical.json"
+    },
+    {
+      "id": "mszzdpc",
+      "body": "Reckon he's got more time off the pitch to crush some cans now so sales ought to increase alongside  his xG(ulps)",
+      "score": 55,
+      "permalink": "/r/soccer/comments/1kpmztz/jamie_vardy_gets_a_standing_ovation_and_a_guard/mszzdpc/",
+      "author": "herrirgendjemand",
+      "created_utc": 1747594937,
+      "source_query": "xg.json"
+    },
+    {
+      "id": "msyosvx",
+      "body": "Jamie Vardy has to have the best career in soccer. What a legend. Stats are perfect too. \n\n\nThis guy's story is one for the books. ",
+      "score": 55,
+      "permalink": "/r/soccer/comments/1kple74/bbc_sport_hes_done_it_jamie_vardy_reaches_200/msyosvx/",
+      "author": "TheUrbanEast",
+      "created_utc": 1747580207,
+      "source_query": "stats.json"
+    },
+    {
+      "id": "mst5fvs",
+      "body": "Possession is 9/10ths of the law. The other 1/10th is Eze",
+      "score": 55,
+      "permalink": "/r/soccer/comments/1kow2v8/crystal_palace_1_0_manchester_city_eberechi_eze_16/mst5fvs/",
+      "author": "AlcoholicSocks",
+      "created_utc": 1747496961,
+      "source_query": "possession.json"
+    },
+    {
+      "id": "msxu4h8",
+      "body": "TAA —> Frimpong tactical transition will certainly be interesting",
+      "score": 54,
+      "permalink": "/r/soccer/comments/1kphsiu/ball_progression_by_defenders_26_and_under_big_5/msxu4h8/",
+      "author": "emre23",
+      "created_utc": 1747568426,
+      "source_query": "tactical.json"
+    }
+  ],
+  "Bold Opinion / Hot Take": [
+    {
+      "id": "mpjdxfw",
+      "body": "Actually, I'm with you\n\nAncelotti is the kind of manager who does not look that much into having an idea and making a system out of it, but getting the players to their best individually so they can work as a collective. I have read a lot about it, he seems fit enough to be a NT manager with this mentally\n\nHowever, Brazil lacks talent nowadays. I am not the biggest fan of Vini Jr., for example. Despite being one of the best players in his position, I think he is very overrated and needs a lot of offensive actions to be decisive. Might be an unpopular opinion but it is my opinion. And the rest of the NT, unless some real talent shows up in 2 years (unlikely), it just does not seem like a team capable of going beyond the QFs.",
+      "score": 1,
+      "permalink": "/r/soccer/comments/1ka4f2t/marca_carlo_ancelotti_reaches_an_agreement_with/mpjdxfw/",
+      "author": "j_tothemoon",
+      "created_utc": 1745869889.0,
+      "source_query": "unpopular.json"
+    },
+    {
+      "id": "msqjsy4",
+      "body": "Crazy how everyone in r/soccer thinks he is the worst keeper in the prem and hugely overrated, then Villa fans and Argentinians who actually see him play week in week out love him and considering one if not the best keeper in the club's history",
+      "score": 249,
+      "permalink": "/r/soccer/comments/1koebo5/gastón_edul_emiliano_martinezs_time_in_aston/msqjsy4/",
+      "author": "Xehanz",
+      "created_utc": 1747451521,
+      "source_query": "overrated.json"
+    },
+    {
+      "id": "msthnrp",
+      "body": "It's crazy that these two are arguably the two greatest ever in their sport and they're both underrated in skill/hardwork respectively. You'll hear people talk about Ronaldo as if he was a talentless hack that just train really hard and they talk about Messi as if he was a slacker who happened to be blessed with godly talent. They both clearly must have had bucketloads of both talent and drive.",
+      "score": 42,
+      "permalink": "/r/soccer/comments/1kou71w/leo_messi_on_cristiano_ronaldo_it_was_a_golden/msthnrp/",
+      "author": "DrJackadoodle",
+      "created_utc": 1747500919,
+      "source_query": "underrated.json"
+    },
+    {
+      "id": "mt45rf9",
+      "body": "He's not underrated.\n\nHe's rated exactly how he should be rated - everyone is very thankful for one of the best individual performances at an international tournament (WC 2018) we've seen from any of our players in our history.\n\nOther than that, he's done fuck all for the NT. He's skipped the NT numerous times, was criticized for it and when he didn't skip it, he was most of the times bang average, or even worse than that.",
+      "score": 33,
+      "permalink": "/r/soccer/comments/1kq8sia/ivan_rakitić_retires_at_the_end_of_the_season/mt45rf9/",
+      "author": "TwoFistsOneVi",
+      "created_utc": 1747659778,
+      "source_query": "underrated.json"
+    },
+    {
+      "id": "msxu306",
+      "body": "I think Xabi Alonso is a little bit overrated when it comes to his Liverpool legacy. [But his home debut against Norwich,](https://youtu.be/xA57Hlkl1ZI?si=dMrQxROUn0jnv633) was incredibly memorable for everyone there. It’s not the best performance I’ve ever seen necessarily but it’s the perfect distillation of that player. He was NEVER afforded that much time and space to get on the ball again in England.",
+      "score": 10,
+      "permalink": "/r/soccer/comments/1kpgheq/daily_discussion/msxu306/",
+      "author": "fourscoreandhuit",
+      "created_utc": 1747568406,
+      "source_query": "overrated.json"
+    },
+    {
+      "id": "ms36yoo",
+      "body": "The raphinha hype never fooled me, and its mostly carried on by Brazilian flairs too, I got cussed out by a Palmeiras flair for saying Rapha isnt the best in the team ffs and Rapha aint from Palmeiras\n\nAnd Pedri one you just have to blame the pundits like Sid Lowe or Wenger for bigging up the underrated midfielders bs\n\nLamine is pretty clearly the best player in the team, id imagine November December would prove it",
+      "score": 2,
+      "permalink": "/r/soccer/comments/1kkw7jh/daily_discussion/ms36yoo/",
+      "author": "Puzzleheadpsych2345",
+      "created_utc": 1747143072,
+      "source_query": "underrated.json"
+    },
+    {
+      "id": "mpg9sfh",
+      "body": "There was no pitch invasion yesterday after Liverpool won the title, was there?\n\nMaybe an unpopular opinion here, but I actually think not having one is boring and makes the moment less meaningful. I've witnessed three pitch invasions as a neutral, and every time the celebrations with the players and thousands of fans have been the best part of it. After years of waiting and after so many missed opportunities, to finally celebrate together with your team and your community, I think pitch invasions are great and strengthen the connection with your team. Otherwise you just, what, sit there and clap? That's so bland and emotionless.",
+      "score": 1,
+      "permalink": "/r/soccer/comments/1k9pf07/daily_discussion/mpg9sfh/",
+      "author": "Simppu12",
+      "created_utc": 1745828984.0,
+      "source_query": "unpopular.json"
+    },
+    {
+      "id": "msow72z",
+      "body": "WHAT A FUCKING GOAL. OUR PLAYER OF THE SEASON. Everyone been asking who is it? It’s CuCUUuuuuuuu. Best offensive and defensive player by miles this season. Should have been in the Prem TOTS. So so underrated",
+      "score": 0,
+      "permalink": "/r/soccer/comments/1kobg4c/chelsea_10_manchester_utd_marc_cucurella_71/msow72z/",
+      "author": "taggsy123",
+      "created_utc": 1747429002,
+      "source_query": "underrated.json"
+    },
+    {
+      "id": "mscpduv",
+      "body": "Im glad this saga is over, I’ve never seen this much undeserved hype for a CB. Sadio Mane didn’t even have this much hype. Not to mention he’s not even the best CB at Bournemouth, and I’ve been watching them since Howe was in charge. I know it’s an unpopular opinion, but if he isn’t fazed out of Madrid in 4 years. I’ll buy his jersey.",
+      "score": -4,
+      "permalink": "/r/soccer/comments/1kmnak6/agreement_reached_huijsen_will_be_real_madrids/mscpduv/",
+      "author": "Sketchbookhobby",
+      "created_utc": 1747262399,
+      "source_query": "unpopular.json"
+    },
+    {
+      "id": "msiraq2",
+      "body": "ESPN has legitimately the worst soccer analysis on tv. It's everybody trying to make cutting hot takes and just saying incredibly dumb shit. I loved ESPN fc and watched it every day but it's just gotten so annoying I haven't watched it in months. ",
+      "score": 131,
+      "permalink": "/r/soccer/comments/1knjwbb/barcelona_are_202425_laliga_champions/msiraq2/",
+      "author": "InternalCultural447",
+      "created_utc": 1747344504,
+      "source_query": "hottake.json"
+    },
+    {
+      "id": "msh2sj6",
+      "body": "I don't doubt it. \n\nPeople underrated his work at Burnley, not to mention the £200m he opted to spend on Burnley's infrastructure has set them up for a much better future than transfers ever could. Proper side now, might be a yoyo side even. Best of luck to them.",
+      "score": 13,
+      "permalink": "/r/soccer/comments/1knbzck/sean_dyche_on_amorim_hed_better_win_some_games/msh2sj6/",
+      "author": "LeakyCauldronChef",
+      "created_utc": 1747326797,
+      "source_query": "underrated.json"
+    },
+    {
+      "id": "mrwuc5f",
+      "body": "Lucas Moura’s performance against Ajax in 2019 is greater than any Ronaldo performance in the UCL.\n\nPotentially the most underrated performance in the history of the game and it doesn’t get talked about because it was from a lesser player in a lesser team.\n\nYour team is 3-0 down on aggregate away from home in a UCL semi final and you bag a hat trick of incredible goals all on your weak foot to drag them to the final? Instead people will talk about noodle hair Ronaldo for having peak clutch UCL performances when he was playing in a super team with his most of his goals being served on a platter.\n\nNever forget. One of the greatest UCL performances of all time.",
+      "score": 8,
+      "permalink": "/r/soccer/comments/1kk5pz1/daily_discussion/mrwuc5f/",
+      "author": "danerritford",
+      "created_utc": 1747057396,
+      "source_query": "underrated.json"
+    },
+    {
+      "id": "msg65ym",
+      "body": "The release clause for Guirassy is club specific and not for everyone. PSG and Bayern are for example NOT included and would have to negotiate. Guirassy have also publically stated he is happy here and excited for next season. If we do secure CL too, that isnt gonna change I think.\n\nHOWEVER.. Ramos seem underrated to me. Ramos and money could be a really slick move, if Ramos himself would be keen on it. \n\nMaybe PSG fans could fill me in if Im wrong there tho. I dont know him superwell.",
+      "score": 6,
+      "permalink": "/r/soccer/comments/1kn60pf/bild_psg_wants_to_sign_serhou_guirassy_this/msg65ym/",
+      "author": "Qiluk",
+      "created_utc": 1747317048,
+      "source_query": "underrated.json"
+    },
+    {
+      "id": "ms4rdye",
+      "body": "I think if you'd asked me two years ago I'd have expected 40-50m. \n\nHe could drive with the ball, he could wriggle out of trouble, and he was good for a goal or an assist every third game. When he was able to link up with Joelinton it was like having a 12th man on the pitch. \n\nNow, I just don't see that same player. I think injuries have robbed him of a yard, and when he gets in good positions he's not been able to make the most of them. A change can be as good as a rest and getting back home might be the ideal move for him. \n\nI want to say his technical ability is underrated, but I'd actually say it's more inconsistent. His ceiling has him producing passes like the one for Isak against Spurs, but some times his shots can be tame and unconvicing.",
+      "score": 4,
+      "permalink": "/r/soccer/comments/1klqjmz/newcastle_united_are_willing_to_listen_to_offers/ms4rdye/",
+      "author": "Stoitchkov8",
+      "created_utc": 1747159737,
+      "source_query": "underrated.json"
+    },
+    {
+      "id": "msru8jy",
+      "body": "I remember earlier this season , when Bruno got 2 red cards in a row , everyone said that he was washed and overrated.\n\nSuch a class player , probably the best Portuguese player atm",
+      "score": 3,
+      "permalink": "/r/soccer/comments/1kofvvj/squawka_moises_caicedo_is_the_only_player_to_win/msru8jy/",
+      "author": "aoiNami",
+      "created_utc": 1747478036,
+      "source_query": "overrated.json"
+    },
+    {
+      "id": "msc4j4g",
+      "body": "yeah, Leao is also quite overrated, I think we should cash in and sell him but then again I have no trust in the management making the right moves",
+      "score": 2,
+      "permalink": "/r/soccer/comments/1kmn1w3/match_thread_bologna_vs_ac_milan_coppa_italia/msc4j4g/",
+      "author": "improb",
+      "created_utc": 1747255817,
+      "source_query": "overrated.json"
+    },
+    {
+      "id": "msr3ev9",
+      "body": "Arsenal flairs saying Dibu is overrated almost never fails. It's crazy how consistent it is\n\nYou read \"Dibu is overrated\" check flair and it's an Arsenal flair. You don't really see that with City, Tottenham, Barcelona, or any other team. Not even Madrid flairs.",
+      "score": 1,
+      "permalink": "/r/soccer/comments/1koebo5/gastón_edul_emiliano_martinezs_time_in_aston/msr3ev9/",
+      "author": "Xehanz",
+      "created_utc": 1747461299,
+      "source_query": "overrated.json"
+    },
+    {
+      "id": "ms4iopn",
+      "body": "I still think striker Havertz is underrated. He never really had a chance to flourish in that role this season with all the injuries, making him drop into midfield more often than not. And then him getting injured himself of course. I think Arsenal need another striker option apart from Kai, but if it was a \"world class LW\" - Havertz - Saka front 3 for a large part of next season, I dont see how we wouldn't be scoring goals. Arsenal broke their goal scoring record last season, and Kai's move to 9 was the catalyst for that",
+      "score": 1,
+      "permalink": "/r/soccer/comments/1klotjb/rodrygo_reportedly_refused_to_play_in_the_clasico/ms4iopn/",
+      "author": "afarensiis",
+      "created_utc": 1747157269,
+      "source_query": "underrated.json"
+    },
+    {
+      "id": "mrzoz6k",
+      "body": "Guessing it’s an unpopular opinion but I’d keep him. The wingers in our system are never gonna look crazy good because Maresca gives them no support. They have to work hard out of possession and hold the width in possession a lot of the time. Hardly any overlapping or underlapping runs so it would be asking a lot of them to score or assist loads. There’s a hilarious clip of Sancho splitting two defenders and having to turn back because there’s literally no Chelsea players in the vicinity in support.\n\nNone of our wingers are crazy good but it would be unrealistic to expect every attacker to be Palmer quality. These guys are fine imo and the biggest issues are keeper, another option up front and ideally experience at CB (but that obviously won’t happen with our owners). Madueke’s our best winger and both Neto/Sancho have their upsides. Neto’s pretty useless against low blocks but so much better in more open games. I feel like there’s a good balance there. Get rid of one and the other looks significantly worse because they have to play the games not suited to them. A good manager can work with these guys as wingers and it could be so much worse so idk why we’d pay to send him back.",
+      "score": 1,
+      "permalink": "/r/soccer/comments/1kl28kh/chelsea_are_ready_to_pay_the_5m_penalty_to_send/mrzoz6k/",
+      "author": "Aman-Patel",
+      "created_utc": 1747088351,
+      "source_query": "unpopular.json"
+    },
+    {
+      "id": "mqik5s2",
+      "body": "Unpopular opinion buttttt, nobody deserved a ballon dor over prime Messi. Not Ronaldo, Ribery, Sneijder, Iniesta, Neuer or anyone else people bring up. Messi from 2008 until he left Barca should have every ballon dor",
+      "score": 1,
+      "permalink": "/r/soccer/comments/1kegdbg/zinedine_zidane_andres_iniesta_deserved_the/mqik5s2/",
+      "author": "SMcQ9",
+      "created_utc": 1746354804.0,
+      "source_query": "unpopular.json"
+    },
+    {
+      "id": "mpq0a7z",
+      "body": "Probably an unpopular opinion but (I’m going to assume barca makes the final) I think whoever comes out of this tie wins it all",
+      "score": 1,
+      "permalink": "/r/soccer/comments/1kavn26/match_thread_arsenal_vs_psg_uefa_champions_league/mpq0a7z/",
+      "author": "Tantle18",
+      "created_utc": 1745958283.0,
+      "source_query": "unpopular.json"
+    },
+    {
+      "id": "mpk1tst",
+      "body": "I care much more about the performance and how the team plays rather than the final result. That is my opinion. You can see how many trophies Ancelotti has and say he is the best coach without ever watching any match. I just don’t like Ancelotti. That’s why I said unpopular opinion.",
+      "score": 1,
+      "permalink": "/r/soccer/comments/1ka4f2t/marca_carlo_ancelotti_reaches_an_agreement_with/mpk1tst/",
+      "author": "Few_Trainer_6439",
+      "created_utc": 1745877318.0,
+      "source_query": "unpopular.json"
+    },
+    {
+      "id": "mnw6z3a",
+      "body": "Definitely an unpopular opinion preferring the Jimmy/Fenners era but with the right guests I’d still watch bits and pieces. I did prefer it with Lovejoy, Helen, tubes and the gang probably around 03 onwards was when I was mainly starting to watch it and I didn’t even mind Goldstein but it was at its worst with Max Rushden. However with Rushden still a million times better than Saturday social which seems they get two newish fans to pick clueless combined Xl from players they’ve never watched. \n\nI enjoyed Sunday supplement and the debate but this modern era of Sky sports is embarrassing.",
+      "score": 1,
+      "permalink": "/r/soccer/comments/1k25dcb/number_of_uk_consumers_who_stream_sports/mnw6z3a/",
+      "author": "cerealoofs",
+      "created_utc": 1745048557.0,
+      "source_query": "unpopular.json"
+    },
+    {
+      "id": "mqqek7n",
+      "body": "It's gonna have to be a lot more than just set pieces imho. Maybe a hot take but I thought Barcelona was very lucky to come away with a draw. The stats really flattered them... about half of Barcelona's xG came from the Torres goal and they required absolute magic from Raphina and Yamal just to draw. It also seemed like most of Barcelonas shots weren't threatening at all, just straight at Sommer... I believe Barcelona had 9 shots with under 0.1 xG. Whereas you don't actually see 2 of the best chances of the game in the stats since they were called back for Inter (although they did squander one of them). If the margins of luck had swung ever so slightly in favor of Inter we could have been watching a 5-2 Inter win. \n\nHaving players like Yamal, Raphina, Pedri, De Jong makes it so you always have a good chance but the Barcelona defense needs to step up big time _and_ their attack needs to be much more clinical.",
+      "score": 1,
+      "permalink": "/r/soccer/comments/1kfd57i/gianluca_di_marzio_lautaro_martínez_and_benjamin/mqqek7n/",
+      "author": "ArseneForever",
+      "created_utc": 1746463317.0,
+      "source_query": "hottake.json"
+    },
+    {
+      "id": "mqpjzef",
+      "body": "I think you could argue that 9 teams from one league/nation participating in the three European competitions is too many and England should lose one of their Europa League spots if they have 6 Champions League teams, but I don't see the issue with the Europa League winners being given the reward of a Champions League spot at all.\n\nIt doesn't do much for the prestige of the Europa League that this year's final is likely to be between two teams who'll finish 13th or worse in their league, but this is another of Wenger's post-retirement hot takes that most people are going to read and think 'LOL no'.",
+      "score": 1,
+      "permalink": "/r/soccer/comments/1kf8zi1/europa_winners_should_not_get_champions_league/mqpjzef/",
+      "author": "theglasscase",
+      "created_utc": 1746454170.0,
+      "source_query": "hottake.json"
+    },
+    {
+      "id": "mt41t0e",
+      "body": "It’s a dumb question, that’s not really relevant. Vinicius is super overrated anyway. \n\nYour original message did not have the “now” caveat, and even with that caveat, Haaland is still clearly the better player. He’s had far better seasons than this one, and his team struggled greatly this year, and is season is still marginally more productive than Alvarez and Isak’s all time best season, with teams firing on all cylinders.",
+      "score": -1,
+      "permalink": "/r/soccer/comments/1kpqp92/alternate_angles_of_julián_alvarezs_stunning_long/mt41t0e/",
+      "author": "Karma_Whoring_Slut",
+      "created_utc": 1747658295,
+      "source_query": "overrated.json"
+    },
+    {
+      "id": "msjwoh6",
+      "body": "Lamine, lad, you being a prodigy basically forced Xavi to give you play time.\n\nHaving seen his first game where he came on with like 15 minutes left to play I'm not exaggerating in saying he was the best player on the field by a mile that day. Pressed and won the ball solo against the goalkeeper and almost scored, and put in a wonderful pass that was fumbled by Dembele.\n\nStill, Xavi's last season is underrated. He only got a few points less than the season before and they dropped a bunch of points in games where they were the much better side but just had worldies scored against them. That's football sometimes.\n\nXavi's first season he was pummeling La Liga with a squad that was rubbish compared to this one.\n\nXavi's biggest failures in my opinion were in mismanaging the media, the poor results in continental competition (although part of this really was bad luck and some quite shitty reffing) and last but not least not properly utilizing Raphinha. It's obvious now that playing Raphinha wide on the right was really limiting his output by not making use of his best qualities.",
+      "score": -3,
+      "permalink": "/r/soccer/comments/1knnlfq/romano_lamine_yamal_id_like_to_thank_xavi_without/msjwoh6/",
+      "author": "RoundFood",
+      "created_utc": 1747359144,
+      "source_query": "underrated.json"
+    },
+    {
+      "id": "mrwlmq4",
+      "body": "Really unpopular opinion, but the club should also be taking flack for this fiasco.\nLetting 3 of your best players run down their contracts like this should not have happened in the first place.",
+      "score": -3,
+      "permalink": "/r/soccer/comments/1kkp0wz/liverpool_fans_singing_gerrards_name_when_trent/mrwlmq4/",
+      "author": "TheGreatPervSage_94",
+      "created_utc": 1747054277,
+      "source_query": "unpopular.json"
+    },
+    {
+      "id": "msft618",
+      "body": "Yeah it’s the Derek Jeter phenomenon. People overrate both because they were charismatic captains of popular teams during their most successful eras. Jeter won 5 gold gloves despite being statistically the worst defensive player in MLB history and it’s not even close. Ramos is much the same. He’s a good patter who is incredibly overrated because the team won so people overlook his flaws.",
+      "score": -4,
+      "permalink": "/r/soccer/comments/1kn49oo/dean_huijsen_my_idol_was_always_sergio_ramos/msft618/",
+      "author": "Pure_Context_2741",
+      "created_utc": 1747312553,
+      "source_query": "overrated.json"
+    },
+    {
+      "id": "mstaexr",
+      "body": "Since this is Bernardo's last relevant match at City these are the best Portuguese players i've ever seen\n\nCristiano > Pepe >  Bernardo > Figo(overrated Beckham was better)",
+      "score": -7,
+      "permalink": "/r/soccer/comments/1koqb7h/daily_discussion/mstaexr/",
+      "author": "GreatSpaniard",
+      "created_utc": 1747498569,
+      "source_query": "overrated.json"
+    },
+    {
+      "id": "mt3pio2",
+      "body": "One of the most underrated players in our national team. Modrić usually gets credited for the world cup run in 2018 but Rakitić played played an equally crucial role, which isn’t talked about enough in my opinion.",
+      "score": 308,
+      "permalink": "/r/soccer/comments/1kq8sia/ivan_rakitić_retires_at_the_end_of_the_season/mt3pio2/",
+      "author": "lakiseuznemirio",
+      "created_utc": 1747652964,
+      "source_query": "underrated.json"
+    },
+    {
+      "id": "mqosqpr",
+      "body": "My hot takes is that the national cup winners should get a UCL spot over the 4th/5th in the top leagues.",
+      "score": 267,
+      "permalink": "/r/soccer/comments/1kf8zi1/europa_winners_should_not_get_champions_league/mqosqpr/",
+      "author": "Lean-carp700",
+      "created_utc": 1746443759.0,
+      "source_query": "hottake.json"
+    },
+    {
+      "id": "ms7rg2e",
+      "body": "Alba was not overrated. One of the best overlapping fullbacks in the world but his mentality wasn't great.",
+      "score": 167,
+      "permalink": "/r/soccer/comments/1kltldd/kroos_on_el_clásico_even_after_the_20_i_had/ms7rg2e/",
+      "author": "ExcelziorZenith",
+      "created_utc": 1747195575,
+      "source_query": "overrated.json"
+    },
+    {
+      "id": "mrmk21l",
+      "body": "Going to announce it already (maybe a hot take, idk), best winger since Robbery.",
+      "score": 83,
+      "permalink": "/r/soccer/comments/1kjgpbn/bayern_munich_2_0_bmonchengladbach_michael_olise/mrmk21l/",
+      "author": "Lilfai",
+      "created_utc": 1746901190,
+      "source_query": "hottake.json"
+    },
+    {
+      "id": "mt3tphk",
+      "body": "Wow Trent is out of contract \n\n\nMaybe a hot take but clubs should really go for him",
+      "score": 80,
+      "permalink": "/r/soccer/comments/1kq92cq/premier_league_players_out_of_contract_this_summer/mt3tphk/",
+      "author": "WazzaPele",
+      "created_utc": 1747654914,
+      "source_query": "hottake.json"
+    },
+    {
+      "id": "mqot5ep",
+      "body": "My hot take is that UEFA should bring back the Cup Winner’s Cup",
+      "score": 76,
+      "permalink": "/r/soccer/comments/1kf8zi1/europa_winners_should_not_get_champions_league/mqot5ep/",
+      "author": "Ok_Insurance2401",
+      "created_utc": 1746443951.0,
+      "source_query": "hottake.json"
+    },
+    {
+      "id": "mrthm8r",
+      "body": "Idk if this is a hot take, but if Sevilla don't get 3 points against Las Palmas next match I I think they're down. They aren't getting anything off Madrid or Villareal",
+      "score": 71,
+      "permalink": "/r/soccer/comments/1kkcgnj/la_liga_table_after_matchday_35/mrthm8r/",
+      "author": "I_Dive_Deep",
+      "created_utc": 1747001217,
+      "source_query": "hottake.json"
+    },
+    {
+      "id": "ms80yby",
+      "body": "He was a hothead and somewhat of an idiot but to say that he's hugely overrated is plain and simple dumb. He was the best/second best LB in the world for a long period of time alongside Marcelo",
+      "score": 63,
+      "permalink": "/r/soccer/comments/1kltldd/kroos_on_el_clásico_even_after_the_20_i_had/ms80yby/",
+      "author": "Fit-Owl-2898",
+      "created_utc": 1747200043,
+      "source_query": "overrated.json"
+    },
+    {
+      "id": "mslfzlu",
+      "body": "Just look at frankie, how happy he is. Flick trusted him and he performed superbly and maybe take out the best of him next season as well. Frenkie is so underrated in this team.",
+      "score": 55,
+      "permalink": "/r/soccer/comments/1knphjn/barcelona_players_lift_up_pedri_after_winning_la/mslfzlu/",
+      "author": "AnkushTiwari_",
+      "created_utc": 1747386482,
+      "source_query": "underrated.json"
+    },
+    {
+      "id": "msu3v6f",
+      "body": "Atletico Falcao was different gravy man. One of those players who will never get a FIFA card and therefore in 20 years time will just be some underrated obscure player from the past",
+      "score": 47,
+      "permalink": "/r/soccer/comments/1koqmfx/kylian_mbappé_giving_advice_to_endrick_who_missed/msu3v6f/",
+      "author": "Exzqairi",
+      "created_utc": 1747508128,
+      "source_query": "underrated.json"
+    },
+    {
+      "id": "mqolqx9",
+      "body": "Unpopular opinion but football players have no moral obligation to bring in transfer fees to their clubs. He didn't force a move out or anything he simply fulfilled the contract he initially agreed to, and is now free to do whatever he wants. It's his career",
+      "score": 39,
+      "permalink": "/r/soccer/comments/1kf79xl/paul_joyce_in_the_end_trent_alexanderarnold/mqolqx9/",
+      "author": "Crpton_2",
+      "created_utc": 1746440180.0,
+      "source_query": "unpopular.json"
+    },
+    {
+      "id": "ms6ljaf",
+      "body": "One of our hands down underrated best signings of the last few years. You genuinely might have been premature in letting him go.",
+      "score": 37,
+      "permalink": "/r/soccer/comments/1kly59l/sunderland_11_coventry_32_on_agg_daniel_ballard/ms6ljaf/",
+      "author": "basicform",
+      "created_utc": 1747180078,
+      "source_query": "underrated.json"
+    },
+    {
+      "id": "mrxnr0o",
+      "body": "At least I won't have to see absolutely unhinged hot takes about Carlo much longer from our fan base. That's a lovely silver lining I think.",
+      "score": 37,
+      "permalink": "/r/soccer/comments/1kkw7jh/daily_discussion/mrxnr0o/",
+      "author": "sewious",
+      "created_utc": 1747066372,
+      "source_query": "hottake.json"
+    },
+    {
+      "id": "msrkn6r",
+      "body": "You can be overrated and still be a good keeper. Martinez is winning awards for best goalkeeper in the world, when there’s multiple goalkeepers who are better than him. That’s the definition of overrated.",
+      "score": 35,
+      "permalink": "/r/soccer/comments/1koebo5/gastón_edul_emiliano_martinezs_time_in_aston/msrkn6r/",
+      "author": "Even_Idea_1764",
+      "created_utc": 1747471919,
+      "source_query": "overrated.json"
+    },
+    {
+      "id": "msmbm1l",
+      "body": "I said 5 months ago Barca should accept Juve's offer for Araujo as he's incredibly overrated and injury prone. I got down voted like crazy and called an idiot. ",
+      "score": 32,
+      "permalink": "/r/soccer/comments/1ko00sz/flick_insists_on_signing_tah_and_the_defender_is/msmbm1l/",
+      "author": "chippa93",
+      "created_utc": 1747401078,
+      "source_query": "overrated.json"
+    },
+    {
+      "id": "mrg21xo",
+      "body": "You gotta post those hot takes like “I think Arsenal played well but PSG are well built and have a great team, wish them well in the final”\n\nAdmittedly it’s rare but it’s happened more than you’d think.",
+      "score": 26,
+      "permalink": "/r/soccer/comments/1kif53d/jamie_carragher_mikel_arteta_must_deliver_next/mrg21xo/",
+      "author": "ObservantOrangutan",
+      "created_utc": 1746809176,
+      "source_query": "hottake.json"
+    },
+    {
+      "id": "msn67qt",
+      "body": "I've seen a ton of this stuff recently, and at first I found it quite shocking, but then I remembered there's a huge group of people on this sub who didn't watch football during the Ronaldo/Messi head to head La Liga days. \n\nMadrid lost league titles with 96, 92, 85, 87, 92, 90 points during that overlap. It's only shocking to someone who didn't experience it. Barca always had fewer goals conceded, and that was the difference most of the time. \n\nSomeday people will say \"Klopp only won 1 PL title, was he actually like so overrated???\" and everyone who actually experienced it will understand how/why it happened that way.",
+      "score": 23,
+      "permalink": "/r/soccer/comments/1knz2kf/daily_discussion/msn67qt/",
+      "author": "HokiesforTSwift",
+      "created_utc": 1747410457,
+      "source_query": "overrated.json"
+    },
+    {
+      "id": "mst4tp7",
+      "body": "\"Underrated\", \"Overrated\" and \"Bottlejob\" are probably the three most misused words in modern football.",
+      "score": 18,
+      "permalink": "/r/soccer/comments/1kovlby/borussia_dortmund_have_qualified_for_the_2526/mst4tp7/",
+      "author": "HotRefrigerator777",
+      "created_utc": 1747496765,
+      "source_query": "overrated.json"
+    },
+    {
+      "id": "mrxvu23",
+      "body": "And then the Real Madrid fanbase stopped having unhinged hot takes and they all lived happily ever after, the end",
+      "score": 18,
+      "permalink": "/r/soccer/comments/1kkw7jh/daily_discussion/mrxvu23/",
+      "author": "LordMangudai",
+      "created_utc": 1747068762,
+      "source_query": "hottake.json"
+    },
+    {
+      "id": "msl2oww",
+      "body": "I hate how underrated he is by so many Barca fans, even now while he has an absolutely astronomical G/A. Look at any stat that measures workrate and he's right at the top. I remember seeing a graphic recently for player making runs off the ball and Raphinha was by far the highest, if anyone can find it link me.\n\nLewa getting as many goals as he has is in part thanks to Raphinha covering for his aged legs by putting in work. Lamine has been told by Flick that he can take it a bit easy on defense to make sure he's ready and fresh to have those moments of brilliance and to play every match. Raphinha's workrate is critical to this team.",
+      "score": 16,
+      "permalink": "/r/soccer/comments/1knokkm/raphinha_in_modern_football_its_important_for_all/msl2oww/",
+      "author": "RoundFood",
+      "created_utc": 1747378182,
+      "source_query": "underrated.json"
+    },
+    {
+      "id": "mrsjg5m",
+      "body": "It's a hot take because it's a shit take LOL\n\nNeymar won a treble at Barca. Raphinha has never been to a UCL final.\n\n\nAnd you don't want to compare overall G+A because it's not in Raph's favor at all",
+      "score": 15,
+      "permalink": "/r/soccer/comments/1kk8b6c/raphinha_stats_for_barca_this_season_54_matches/mrsjg5m/",
+      "author": "Albiceleste_D10S",
+      "created_utc": 1746989817,
+      "source_query": "hottake.json"
+    },
+    {
+      "id": "msthu9r",
+      "body": "mate I've been saying this about foden for over 2/3 seasons now. I just don't rate him as much as I rate the other three I named\n\none good full season didn't change my mind, and this season won't lesser my opinion either. I don't think he's an awful player, just severely overrated especially by the media",
+      "score": 11,
+      "permalink": "/r/soccer/comments/1koqb7h/daily_discussion/msthu9r/",
+      "author": "shaeelm1",
+      "created_utc": 1747500977,
+      "source_query": "overrated.json"
+    },
+    {
+      "id": "msqlju9",
+      "body": "Barry at the base of the midfield was the foundation of so many great teams. Citeh’s first title team, O’Neil’s top 4 challenging Villa, Martinez’s Everton. So underrated after Benitez wanted him to replace Alonso.",
+      "score": 11,
+      "permalink": "/r/soccer/comments/1koebo5/gastón_edul_emiliano_martinezs_time_in_aston/msqlju9/",
+      "author": "caandjr",
+      "created_utc": 1747452294,
+      "source_query": "underrated.json"
+    },
+    {
+      "id": "mst64y5",
+      "body": "R9 is overrated overall is my hot take, people put him in the GOAT conversation when he's had neither the peak or longevity \n\nAnd people point to his knees exploding when his playstyle was a major factor contributing to his knees exploding, so there's no guarantee that he could've kept up with the playstyle that made him so good even if his knees didn't explode",
+      "score": 8,
+      "permalink": "/r/soccer/comments/1koqb7h/daily_discussion/mst64y5/",
+      "author": "Rosenvial5",
+      "created_utc": 1747497185,
+      "source_query": "overrated.json"
+    },
+    {
+      "id": "mt3hiba",
+      "body": "You just know that the board is going to give him everything signing he wants in the summer, then sack him anyways sometime around next Christmas.\n\nI really think he will bring United back from the brink (probably an unpopular opinion) but the board need to give him the time.",
+      "score": 8,
+      "permalink": "/r/soccer/comments/1kq71mp/daily_discussion/mt3hiba/",
+      "author": "topbananaman",
+      "created_utc": 1747648641,
+      "source_query": "unpopular.json"
+    },
+    {
+      "id": "msxr8sv",
+      "body": "An Underrated one.\n\nXavi vs Real Madrid 2010-11(5-0 game).People who only watched highlights of that game give Messi all the credit and think  he was the best player.People can yap about G/A and all that but I have rarely seen a player have soo much influence and control over a game.",
+      "score": 7,
+      "permalink": "/r/soccer/comments/1kpgheq/daily_discussion/msxr8sv/",
+      "author": "AdPrestigious8631",
+      "created_utc": 1747566940,
+      "source_query": "underrated.json"
+    },
+    {
+      "id": "mp0o4vb",
+      "body": "Maybe unpopular opinion apparently, but I don't think refs should have spoken like that before a literal final. \n\nI want to make clear that by that I don't mean they aren't right in what they say, in fact I agree with them and totally think RM should be punished by that huge pile of bs RMTV is, and they should end the pathetic victimism campaign against referees. It's outrageous and unfit not only for freaking Real Madrid, but for any professional club even in lower categories.\n\nEspecially considering how they didn't even act in court against Barcelona's Negreira case, which was huge and scandalous af, so they must not truly feel like victims at all, do they? This is just some ridiculous acting against referees to sel lthemselves as victims of a conspiracy or some shit.\n\nBut as I said at the start, the referees doing this just the day before a final is going to do nothing but fuel the fires even more, let alone if there's even a single error against Real Madrid.",
+      "score": 7,
+      "permalink": "/r/soccer/comments/1k7rkf9/real_madrid_cf_considers_the_public_statements/mp0o4vb/",
+      "author": "Dawn_of_Enceladus",
+      "created_utc": 1745607368.0,
+      "source_query": "unpopular.json"
+    },
+    {
+      "id": "msk82cf",
+      "body": "Flick’s success does not mean Xavi’s time was a failure. He did more than give debuts to talents who would go on to become important players in the team. He and Barca’s previous sporting directors pretty much assembled most of the current squad. During a difficult time when the club was struggling with registrations, Xavi’s status and name helped attract players in the market. Along the way, he also won a super cup\nagainst Madrid and a league title after four years of not winning it and the first one without Messi. I think he did an underrated and impressive job given the context and his lack of experience. ",
+      "score": 6,
+      "permalink": "/r/soccer/comments/1knnlfq/romano_lamine_yamal_id_like_to_thank_xavi_without/msk82cf/",
+      "author": "Sanayuki",
+      "created_utc": 1747363395,
+      "source_query": "underrated.json"
+    },
+    {
+      "id": "msemnp1",
+      "body": "Tbf, I think he probably is. He’s not had time to generate nostalgia though so he’s underrated slightly.",
+      "score": 6,
+      "permalink": "/r/soccer/comments/1kmfxf1/daily_discussion/msemnp1/",
+      "author": "TruestRepairman27",
+      "created_utc": 1747289677,
+      "source_query": "underrated.json"
+    },
+    {
+      "id": "msbjvbb",
+      "body": "The value of a good CB partnership is very underrated. Gabriel and Saliba are among the best itw when paired together. Having good chemistry can help cover up mistakes and good communication is really important. Kiwior is not Gabriel, which mostly coincides with Saliba's dip in form.\n\nZabarnyi is super underrated at Bournemouth, and is a huge part of what made Huijsen so successful this season. Huijsen's lack of pace and inexperience has gotten covered up a lot.",
+      "score": 6,
+      "permalink": "/r/soccer/comments/1kmfxf1/daily_discussion/msbjvbb/",
+      "author": "betterthanclooney",
+      "created_utc": 1747249629,
+      "source_query": "underrated.json"
+    },
+    {
+      "id": "ms9gqmf",
+      "body": "Seriously enjoying 16th and 17th in the table getting into it over who gets in either’s team. It’s like when every mid table club becomes convinced over summer they’re infinitely better than the rest of the pack only for them all to finish within 6 points of each other. My hot take that I’m ready to get cooked on is Maguire 100% starts for Spurs.",
+      "score": 6,
+      "permalink": "/r/soccer/comments/1klo5wx/daily_discussion/ms9gqmf/",
+      "author": "ManLikeArch",
+      "created_utc": 1747227399,
+      "source_query": "hottake.json"
+    },
+    {
+      "id": "msto8kj",
+      "body": "Gonna take the chance to add that I think Oasis are massively overrated.\n\nStone Roses and Happy Mondays are much better imo.",
+      "score": 5,
+      "permalink": "/r/soccer/comments/1kovbqa/match_thread_crystal_palace_vs_manchester_city_fa/msto8kj/",
+      "author": "WaystarJoyco",
+      "created_utc": 1747503019,
+      "source_query": "overrated.json"
+    },
+    {
+      "id": "mqoq3jm",
+      "body": "They just gona play 2 CB 2 fwd 6 guys randomly roaming the field slotting into empty space lineup, like they have been for a while, Trent at least fills some of the hole Kroos left just from the other side. Hot take, he should play lb if Carvajal comes back at his level and be that deep lying playmaker Kroos was.",
+      "score": 5,
+      "permalink": "/r/soccer/comments/1kf72bh/ornstein_trent_alexanderarnold_to_leave_liverpool/mqoq3jm/",
+      "author": "Varmegye",
+      "created_utc": 1746442479.0,
+      "source_query": "hottake.json"
+    },
+    {
+      "id": "msey1jg",
+      "body": "It was actually close the last couple of seasons but next season is going to be a wash, especially if they get Wirtz and/or Tah. Leverkusen is getting picked apart in the summer and there is just no team left that could possibly compete with them for the title. Even putting Dortmund 2nd is a very hot take but I geniunely don't know who else could take that place.",
+      "score": 4,
+      "permalink": "/r/soccer/comments/1kmfxf1/daily_discussion/msey1jg/",
+      "author": "mortezz1893",
+      "created_utc": 1747296553,
+      "source_query": "hottake.json"
+    },
+    {
+      "id": "mrrpya8",
+      "body": "My hot take is that the handball laws are actually fairly straight forward but commentators, fans, players, and media bend themselves backwards trying justify why something cool should count so refs are increasingly put in a position to fuzzy up what handballs actually and it turns into subjective and inconsistent decisions.",
+      "score": 4,
+      "permalink": "/r/soccer/comments/1kk1ntt/match_thread_barcelona_vs_real_madrid_laliga/mrrpya8/",
+      "author": "Untiuu",
+      "created_utc": 1746980392,
+      "source_query": "hottake.json"
+    },
+    {
+      "id": "msxlp02",
+      "body": "I've been saying for years he might be the most overrated player ever. Just a poacher who piles on goals against mid to low table teams. Look how few goals he puts up against top teams. I feel like I'm taking crazy pills.",
+      "score": 3,
+      "permalink": "/r/soccer/comments/1koyr69/whoscored_erling_haaland_has_now_failed_to_score/msxlp02/",
+      "author": "Tacnamhsum",
+      "created_utc": 1747563798,
+      "source_query": "overrated.json"
+    },
+    {
+      "id": "msu9fyc",
+      "body": "It must have been tough for Mbappé tbh. Last season at PSG he gets massive pressure, disrespect etc just because of the personal vendetta of Nasser. Then he does a meh Euro and probably gets exhausted from it like most players in his case, gets to Madrid and the adaption is not easy. At this point PSG fans (at least a good proportion) hate him for leaving (but weirdly also boasting that they are glad to be rid of him), Madrid fans hate him because they feel he's not delivering, is overrated, and was a bad signing anyway due to  his position and the problem it creates in the lineup.\n\nIt must have been tough, and you can say all you want about money but it doesn't make every problem disappear, especially not for highly competitive athletes.",
+      "score": 3,
+      "permalink": "/r/soccer/comments/1koqmfx/kylian_mbappé_giving_advice_to_endrick_who_missed/msu9fyc/",
+      "author": "taclealacarotide",
+      "created_utc": 1747510017,
+      "source_query": "overrated.json"
+    },
+    {
+      "id": "msvx3bk",
+      "body": "Kane is very very underrated. Played in a generation with 2 goats. And many many more top tier strikers. any other era he goes down as a multiple time Ballon D or winner and talks amongst the greatest",
+      "score": 3,
+      "permalink": "/r/soccer/comments/1kox0ox/harry_kane_bundesliga_topscorer_with_26_goals/msvx3bk/",
+      "author": "taggsy123",
+      "created_utc": 1747531474,
+      "source_query": "underrated.json"
+    },
+    {
+      "id": "msht8pt",
+      "body": "Consensus pick as most underrated player in the squad. He combines a calmness on the ball and good decision making with an insane workrate and good attacking instincts. We've suffered whenever he hasn't been at the base of our midfield.",
+      "score": 3,
+      "permalink": "/r/soccer/comments/1kn9nfe/argentina_preliminary_argentina_national_team/msht8pt/",
+      "author": "FaustRPeggi",
+      "created_utc": 1747334456,
+      "source_query": "underrated.json"
+    },
+    {
+      "id": "msfauc3",
+      "body": "I understand saying this about someone who only did poorly with Everton, but the man has had a very impressive 10-year stint with Burnley. \n\nHe's not as good as Moyes but Moyes is a criminally underrated very good manager, Dyche is defo decent",
+      "score": 3,
+      "permalink": "/r/soccer/comments/1kn3ftk/man_utd_dyche_claims_hed_win_more_games_than/msfauc3/",
+      "author": "RandomLoLJournalist",
+      "created_utc": 1747304451,
+      "source_query": "underrated.json"
+    },
+    {
+      "id": "mrxlt98",
+      "body": "Unpopular opinion here, but I think United getting the CL will paper over cracks yet again. Of course I want them to beat Tottenham, but this team is not ready to compete on all fronts and a full rebuild is needed rather than acting like this season is okay because we somehow got back to the CL",
+      "score": 3,
+      "permalink": "/r/soccer/comments/1kkuwx5/bottom_five_of_the_premier_league_with_two_games/mrxlt98/",
+      "author": "primalwilliam",
+      "created_utc": 1747065792,
+      "source_query": "unpopular.json"
+    },
+    {
+      "id": "mszjxvl",
+      "body": "He’s so overrated, literally scores the same goal every time.",
+      "score": 2,
+      "permalink": "/r/soccer/comments/1kppm9b/barcelona_1_1_villarreal_lamine_yamal_38/mszjxvl/",
+      "author": "Specialist-Cycle9313",
+      "created_utc": 1747590057,
+      "source_query": "overrated.json"
+    },
+    {
+      "id": "msp0vva",
+      "body": "Just as we should be. Being liked by other fans is overrated",
+      "score": 2,
+      "permalink": "/r/soccer/comments/1koc413/postmatch_thread_chelsea_10_manchester_united/msp0vva/",
+      "author": "taylorstillsays",
+      "created_utc": 1747430465,
+      "source_query": "overrated.json"
+    },
+    {
+      "id": "msny807",
+      "body": "Social media just feeds hyperbolic nonsense, tomorrow they can get an injury or play 2 matches poorly and they were never good and \"overrated\". Its a toxic over the top environment that just makes talking about players and football or anything rationally or with nuance way harder.",
+      "score": 2,
+      "permalink": "/r/soccer/comments/1knphjn/barcelona_players_lift_up_pedri_after_winning_la/msny807/",
+      "author": "Rickcampbell98",
+      "created_utc": 1747418626,
+      "source_query": "overrated.json"
+    },
+    {
+      "id": "mstt6sc",
+      "body": "Whats your opinion on gross since joining dortmund? I havent watched bundesliga going to be honest but when he played for brighton in the prem i always thought this guy was the most underrated player ever",
+      "score": 2,
+      "permalink": "/r/soccer/comments/1kovzr4/bundesliga_top_assist_providers_202425/mstt6sc/",
+      "author": "Dio_my_senpai",
+      "created_utc": 1747504563,
+      "source_query": "underrated.json"
+    },
+    {
+      "id": "msg19d3",
+      "body": "Guirassy is phenomenal. Most underrated striker on the planet I think.",
+      "score": 2,
+      "permalink": "/r/soccer/comments/1kn60pf/bild_psg_wants_to_sign_serhou_guirassy_this/msg19d3/",
+      "author": "Useful-Structure-728",
+      "created_utc": 1747315420,
+      "source_query": "underrated.json"
+    },
+    {
+      "id": "msbp0s3",
+      "body": "One of the most underrated forwards of his generation, seriously. 72 goals in 147 games for Wolfsburg in his prime and now is one of the best super subs in the world into his 30s.",
+      "score": 2,
+      "permalink": "/r/soccer/comments/1kmma1b/match_thread_fc_groningen_vs_ajax_amsterdam_dutch/msbp0s3/",
+      "author": "civilthroaway",
+      "created_utc": 1747251151,
+      "source_query": "underrated.json"
+    },
+    {
+      "id": "ms6tkvs",
+      "body": "Cafu for me will always be the best RB. He was so good going forward and incredibly underrated defensively. Him and Ashley Cole are the 2 most complete fullbacks of all time imo.",
+      "score": 2,
+      "permalink": "/r/soccer/comments/1kleuc0/b24_cristiano_ronaldo_has_only_won_4_league/ms6tkvs/",
+      "author": "Glaiele",
+      "created_utc": 1747182917,
+      "source_query": "underrated.json"
+    },
+    {
+      "id": "msh9r2j",
+      "body": "Hot take but England should reject the automatic qualification offer. Better to qualify the proper way.",
+      "score": 2,
+      "permalink": "/r/soccer/comments/1kncmny/republic_of_ireland_and_fellow_euro_2028_hosts/msh9r2j/",
+      "author": "3V3RT0N",
+      "created_utc": 1747328808,
+      "source_query": "hottake.json"
+    },
+    {
+      "id": "msx4sw5",
+      "body": "Nah there's a lot that bring up how the WC elevated him to get the golden glove and he's overrated as a result and shouldn't be considered near top gks in the world... doesn't really say how great they think he is but a lot quick to undermine and say he's not that elite",
+      "score": 1,
+      "permalink": "/r/soccer/comments/1koebo5/gastón_edul_emiliano_martinezs_time_in_aston/msx4sw5/",
+      "author": "Craizinho",
+      "created_utc": 1747553182,
+      "source_query": "overrated.json"
+    },
+    {
+      "id": "msu7cz9",
+      "body": "\"Overrated\", \"highest overrated ever\", \"average with good highlights\". Search for those words in his threads and you will see what op is talkimg about",
+      "score": 1,
+      "permalink": "/r/soccer/comments/1koebo5/gastón_edul_emiliano_martinezs_time_in_aston/msu7cz9/",
+      "author": "Winter-Werewolf8366",
+      "created_utc": 1747509308,
+      "source_query": "overrated.json"
+    },
+    {
+      "id": "msswous",
+      "body": "A bit overrated maybe but I do think he's a really good keeper, his cross claiming and penalty saving is easily up there with the best in the world and he doesn't have any real weaknesses.",
+      "score": 1,
+      "permalink": "/r/soccer/comments/1kof9kv/emi_martinez_waving_to_the_villa_park_crowd_with/msswous/",
+      "author": "shevek_o_o",
+      "created_utc": 1747494130,
+      "source_query": "overrated.json"
+    },
+    {
+      "id": "msss6ss",
+      "body": "I think he’s a quality keeper who ends up performing at a with class level with country so that elevates his perception. I think he’s a bit overrated but nothing crazy",
+      "score": 1,
+      "permalink": "/r/soccer/comments/1kof9kv/emi_martinez_waving_to_the_villa_park_crowd_with/msss6ss/",
+      "author": "mindpainters",
+      "created_utc": 1747492637,
+      "source_query": "overrated.json"
+    },
+    {
+      "id": "mssaij5",
+      "body": "Since when did /u/Xehanz speak on behalf of \"everyone on /r/soccer\"\n\nThe gk who won the golden glove at the wc, the wc itself is overrated? I still remember in a game against us where he won villa 3 points.",
+      "score": 1,
+      "permalink": "/r/soccer/comments/1koebo5/gastón_edul_emiliano_martinezs_time_in_aston/mssaij5/",
+      "author": "Difuzion",
+      "created_utc": 1747486016,
+      "source_query": "overrated.json"
+    },
+    {
+      "id": "mss7neb",
+      "body": "Sure but as always people have taken it to the point that he is closer to being underrated than overrated",
+      "score": 1,
+      "permalink": "/r/soccer/comments/1koebo5/gastón_edul_emiliano_martinezs_time_in_aston/mss7neb/",
+      "author": "Traditional_Club1055",
+      "created_utc": 1747484794,
+      "source_query": "overrated.json"
+    },
+    {
+      "id": "mss7mnw",
+      "body": "People think he's overrated, not shit. I agree with them. He's very good, but not the best in the world, like some people say he is",
+      "score": 1,
+      "permalink": "/r/soccer/comments/1koebo5/gastón_edul_emiliano_martinezs_time_in_aston/mss7mnw/",
+      "author": "Inside-Jacket9926",
+      "created_utc": 1747484785,
+      "source_query": "overrated.json"
+    },
+    {
+      "id": "msphiof",
+      "body": "Emi is both overrated and underrated a bit. He is a good not great keeper who is especially great at penalties and can produce some elite moments but some people, especially those that vote at the ballon d'or ceremony, think that he is some god tier keeper when he is not that and that leads to his detractors overreact to his goof moments and try to paint him as a bum.\n\nHe is a good keeper, any team without one of those would be happy to have him but he is not a Alison, Oblak, Courtois tier of keeper IMO",
+      "score": 1,
+      "permalink": "/r/soccer/comments/1koebo5/gastón_edul_emiliano_martinezs_time_in_aston/msphiof/",
+      "author": "Neutral_Sports_Fan",
+      "created_utc": 1747436800,
+      "source_query": "overrated.json"
+    },
+    {
+      "id": "msot5uq",
+      "body": "I swear I see you in every Bruno thread saying the same shit about him being overrated lol Do you genuinely not get tired?",
+      "score": 1,
+      "permalink": "/r/soccer/comments/1ko9qom/bruno_fernandes_is_2nd_in_the_league_for_ga_while/msot5uq/",
+      "author": "MalIntenet",
+      "created_utc": 1747428084,
+      "source_query": "overrated.json"
+    },
+    {
+      "id": "ms9cu6v",
+      "body": "Again, Amad has 2 more g/a than Kulu who is supposedly your best player, in 8 less games. Amad is miles clear of Kulu. Kulu is crazy overrated cause he scores some aesthetically pleasing goals.",
+      "score": 1,
+      "permalink": "/r/soccer/comments/1kmc5vp/the_overlap_gary_neville_when_you_look_at/ms9cu6v/",
+      "author": "IcyCity5365",
+      "created_utc": 1747225979,
+      "source_query": "overrated.json"
+    },
+    {
+      "id": "msau7et",
+      "body": "I think that's an underrated/overlooked aspect of Wirtz' game tbf - he's also really quick and also covers a lot of ground *while* being an impressive creator and a workhorse at the same time. \n\nWon't see him win any headers, mind, but then I think it's only fair that he's got a weakness too.",
+      "score": 1,
+      "permalink": "/r/soccer/comments/1kmfxf1/daily_discussion/msau7et/",
+      "author": "sga1",
+      "created_utc": 1747242309,
+      "source_query": "underrated.json"
+    },
+    {
+      "id": "ms6ipyf",
+      "body": "He would be great in the US especially for Midwestern team maybe Minnesota, St. Louis or Chicago (pretty large German population in those areas). Schweinsteiger also played for Chicago for a couple years. \n\nI'm sure he can do whatever he wants though. He's earned it. One of the most underrated players ever imo. For how incredible he was as a player and how flexible he was positionally he really doesn't ever get mentioned. You could play him in basically any team and he would fit",
+      "score": 1,
+      "permalink": "/r/soccer/comments/1kjheb3/thomas_muller_lifting_his_final_bundesliga_trophy/ms6ipyf/",
+      "author": "Glaiele",
+      "created_utc": 1747179125,
+      "source_query": "underrated.json"
+    },
+    {
+      "id": "mrdqu0d",
+      "body": "Ha ha, I agree with your massively unpopular opinion mate. I can't believe the takes on this bloke. Injuries? They're still getting smashed with everyone back.\n\nSpurs fans have some kind of Stockholm syndrome with him. They're going to be 20 losses for the year and they're still debating if he's the man for them. It's laughable. They like his personality. What personality? Looking at his shoes and answering questions like a miserable fuck.\n\nThey've lucked their way into the 2nd string European final, beating Bilbo Baggins and Kraftwerk and now the season is a success? \n\nHe shit on the Australian national team. He bailed at the first decent offer he got.",
+      "score": 1,
+      "permalink": "/r/soccer/comments/1ki3rpp/ange_postecoglous_speech_to_the_players_and_staff/mrdqu0d/",
+      "author": "neverendum",
+      "created_utc": 1746774336.0,
+      "source_query": "unpopular.json"
+    },
+    {
+      "id": "mr3ya2s",
+      "body": "Might be an unpopular opinion, but Cuba shouldn’t be starting. He definitely has his flaws during counter attacks ",
+      "score": 1,
+      "permalink": "/r/soccer/comments/1kgh1kr/daily_discussion/mr3ya2s/",
+      "author": "SavvyBacon10",
+      "created_utc": 1746642428.0,
+      "source_query": "unpopular.json"
+    },
+    {
+      "id": "mqys46z",
+      "body": "It's the only clip where the ball moves clearly, visibly and kind of unnaturally. But anyway, my opinions are unpopular and biased on here, so who cares.",
+      "score": 1,
+      "permalink": "/r/soccer/comments/1kg6r48/julian_alvarez_even_now_many_of_us_are_still/mqys46z/",
+      "author": "Greeny9",
+      "created_utc": 1746570038.0,
+      "source_query": "unpopular.json"
+    },
+    {
+      "id": "mql9nqf",
+      "body": "Unpopular opinion Arsenals problem is at CAM for me. Odegaard needs to add killer balls & goals to his game. With a few games in the season left he's at - 2 Goals 7 Assists in the premier league (last season 8/11). Compare that to title winning sides CAM's down the years and he's not the guy.  He very much plays 'the arsenal way' but that's no good if you're a position that should have high goal contributions.",
+      "score": 1,
+      "permalink": "/r/soccer/comments/1kefd35/opta_arsenal_have_now_lost_21_points_from_winning/mql9nqf/",
+      "author": "TosspoTo",
+      "created_utc": 1746388731.0,
+      "source_query": "unpopular.json"
+    },
+    {
+      "id": "mqj34ui",
+      "body": "I mean even on this sub Id say its rather an unpopular opinion to say that Sneijder shouldve won it as majority of the comments will say that Milito was more important for Inter and that Messi had a better year. \n\nFact is though that Sneijder would've won if Ballon dor used the same voting criteria as prior to 2010 (which are the same as the current criteria) where only journalists would vote. Sneijder won the most journalists votes with 7.70%, followed by Iniesta with 7.53% (Xavi had 5.96% and Messi 4.38%). Not saying thats a better voting criteria or anything though",
+      "score": 1,
+      "permalink": "/r/soccer/comments/1kegdbg/zinedine_zidane_andres_iniesta_deserved_the/mqj34ui/",
+      "author": "Revolutionary-Bag-52",
+      "created_utc": 1746363848.0,
+      "source_query": "unpopular.json"
+    },
+    {
+      "id": "mq0k8qf",
+      "body": "My unpopular opinion is that yellow cards should be a purely in-game punishment, no accumulation. Two yellow cards in one game is a red, nothing beyond that. If you’re disciplined enough to only commit one yellow card worthy foul per game and no more, then good for you",
+      "score": 1,
+      "permalink": "/r/soccer/comments/1kc5qs8/bodoglimt_wrongly_believed_yellow_cards_would_be/mq0k8qf/",
+      "author": "OodilyDoodily",
+      "created_utc": 1746106106.0,
+      "source_query": "unpopular.json"
+    },
+    {
+      "id": "mpw6u8r",
+      "body": "Guys, unpopular opinion but I think this Yamal kid is pretty good.",
+      "score": 1,
+      "permalink": "/r/soccer/comments/1kbp1ir/barcelona_1_2_inter_lamine_yamal_24/mpw6u8r/",
+      "author": "FryChy",
+      "created_utc": 1746041482.0,
+      "source_query": "unpopular.json"
+    },
+    {
+      "id": "mpowlcs",
+      "body": "World Cup 2018 aswell. At Monaco he also drifted to the right much more than the left\n\nMight be an unpopular opinion but I think he looked just as exciting if not more on the right",
+      "score": 1,
+      "permalink": "/r/soccer/comments/1kajjch/matteo_moretto_xabi_alonso_is_one_step_away_from/mpowlcs/",
+      "author": "OleoleCholoSimeone",
+      "created_utc": 1745946943.0,
+      "source_query": "unpopular.json"
+    },
+    {
+      "id": "mpot7mv",
+      "body": "Unpopular opinion but if she was a good pundit she can have whatever political opinions she wants, I sincerely do not care who football pundits vote for ",
+      "score": 1,
+      "permalink": "/r/soccer/comments/1kapjp1/itv_backs_ian_wright_as_punditry_row_casts_doubt/mpot7mv/",
+      "author": "Remarkable_Task7950",
+      "created_utc": 1745945983.0,
+      "source_query": "unpopular.json"
+    }
+  ],
+  "Emotional Reaction": [
+    {
+      "id": "msy0omv",
+      "body": "Man this feels amazing seeing people who've been waiting all their life for something like this. Different sport and everything but the only comparison I have was being at the watchparty for the San Francisco Giants World Series win in 2010 that was the teams first win after being the city for over 50 years and everyone was just jumping around screaming an crying at the same time. Theres really nothing like that feeling of finally seeing your team win after a lifetime of heartbreaks.",
+      "score": 3,
+      "permalink": "/r/soccer/comments/1kp29xp/crystal_palace_fans_went_wild_after_the_club_won/msy0omv/",
+      "author": "TalussAthner",
+      "created_utc": 1747571477,
+      "source_query": "crying.json"
+    },
+    {
+      "id": "mrs426k",
+      "body": "Legit don't understand the nutsacks stoking hatred between the clubs and their fan bases. \"My club is the best and all other clubs should perish in a fire\" mentality is fucking boring. I want respectable rivals, clubs I'm proud to see beat because they are playing as strong as we are. The competition matters more that way, and it has the added benefit of allowing you to enjoy matches your club isn't playing in. \n\nAm I said Arsenal is out of the CL? Absolutely. But I am also so stoked that I get to see PSG and Inter put on a final I am sure is gonna be an absolute banger. We should all love our clubs, but I feel a lot of terminally online Redditors don't really love the sport in general.",
+      "score": 50,
+      "permalink": "/r/soccer/comments/1kk3n3l/arsenal_give_liverpool_a_guard_of_honour/mrs426k/",
+      "author": "Nerevar1924",
+      "created_utc": 1746984849,
+      "source_query": "fucking_love.json"
+    },
+    {
+      "id": "msvdb4m",
+      "body": "Man City fans crying about cheating is honestly warming my heart. I fucking love it.\n\n115 charges lmao.",
+      "score": 21,
+      "permalink": "/r/soccer/comments/1kp0ehq/albanian_commentator_for_broadcaster_supersport/msvdb4m/",
+      "author": "UmbroShinPad",
+      "created_utc": 1747523774,
+      "source_query": "fucking_love.json"
+    },
+    {
+      "id": "mt19z6b",
+      "body": "This was quite the season. First I didnt expect is to be in contention for the top spots because of the necessary rebuild, we ended up in a title race but then we bottled it. So that means mixed feelings, I’m proud because we ended up being only 2 points away from the title but disappointed because we bottled a 9 point lead in the last 5 games. \n\nIt felt cathartic to see the emotions amongst the player and to see Farioli crying today, I‘ve rarely seen a manager cry before. This whole season clearly meant as much to him and the squad as it meant to me.",
+      "score": 3,
+      "permalink": "/r/soccer/comments/1kpgheq/daily_discussion/mt19z6b/",
+      "author": "Striking_Insurance_5",
+      "created_utc": 1747610476,
+      "source_query": "crying.json"
+    },
+    {
+      "id": "mg8yiit",
+      "body": "I remember being so broken, but saying out loud 'You can't say we didn't take our chances. We chanced every chance that we could. Courtois was just amazing. What can you do?' We periodically come up against teams where their goalkeeper turns into a brick wall, and it fucking sucks and I hate it, but that's what this game is. \n\nI've always known Alisson was amazing and, despite my heart wanting to fall out my butt, I'm glad he has this match to pin to his 'Best Of' record. Somewhere in November(? maybe?) people were talking that we should dump him for Kelleher, and I do love Kelleher, but Alisson is the best GK in the world and I will not have that sort slander flying about the interwebs.",
+      "score": 1,
+      "permalink": "/r/soccer/comments/1j4f657/shots_taken_by_psg_27_and_liverpool_2/mg8yiit/",
+      "author": "ex_bestfriend",
+      "created_utc": 1741221987.0,
+      "source_query": "heartbroken.json"
+    },
+    {
+      "id": "mrvsjob",
+      "body": "You can feel how you want, you can't act how you want and expect adults to not judge you for it. I get you and many other fans are hurt and upset at the situation, but in what life do you just get a free pass to act however you want without judgement?\n\nFor example, Hertha fans have to deal with the emotions of Maxi Mittelstadt going to fucking Stuttgart and playing CL and Euros after he left on a 500k release clause. And frankly it hurt a lot and Maxi didn't leave us with a dozen trophies either. But as a fan base we understood the humanity of it and handled it far better than Liverpool fans. And when Maxi was in the stadium two weeks ago with a Hertha kit to support us, we loved him for it because he's still one of ours and we accepted the situation. \n\nSo I'm not here to tell you, you need to *feel* happy, you can feel inside your head whatever you want, but I can and will judge you on your reaction and actions because that's how life works.",
+      "score": 0,
+      "permalink": "/r/soccer/comments/1kk5pz1/daily_discussion/mrvsjob/",
+      "author": "pinecoconuts",
+      "created_utc": 1747039442,
+      "source_query": "fucking_love.json"
+    },
+    {
+      "id": "msz7e2h",
+      "body": "I can get him running away crying last wednesday, hes full in his emotions and whilst its shitty to not thank the away fans i can get being that emotional and not being exactly rational then. This is just pathetic. He makes a pretty beautiful tribute by the fans all about him now because he cant just be normal for a second",
+      "score": 209,
+      "permalink": "/r/soccer/comments/1kpmvfo/wout_weghorst_punches_away_the_camera_after_ajax/msz7e2h/",
+      "author": "Rose_of_Elysium",
+      "created_utc": 1747586178,
+      "source_query": "crying.json"
+    },
+    {
+      "id": "msv1uwd",
+      "body": "Liverpool fan, but how could you not get emotional when you see the palace fans crying in the stands, love this sport!",
+      "score": 4,
+      "permalink": "/r/soccer/comments/1kp0ehq/albanian_commentator_for_broadcaster_supersport/msv1uwd/",
+      "author": "raziel_beoulve",
+      "created_utc": 1747519608,
+      "source_query": "crying.json"
+    },
+    {
+      "id": "mrgzyqy",
+      "body": "There is definitely some of this going on. I mentioned the acid in drinks thing specifically because my dentist, having said the year before that my teeth were perfect, was like whoooaa buddy your enamel everywhere is destroyed, went through the options and decided it was too many acidic drinks, so I basically stopped drinking them, went back 6 months later for some tooth pain and told her that's what I'd done and she was like why? so I told her what she said. \"I said that? Your enamel's fine\". Had me fucking paranoid avoiding things I love like the plague for something she made up.\n\nThe gum receding might just be paranoia after accumulating other issues (some definitive, some more wishy washy could be bollocks) but I definitely feel like that's not just in my head.\n\nEither way some of it is real and for no reason other than genetics and I hate it, but I agree my fury over it is probably increased by them trying to get me to pay for stuff.",
+      "score": 3,
+      "permalink": "/r/soccer/comments/1kidx00/free_talk_friday/mrgzyqy/",
+      "author": "BoxOfNothing",
+      "created_utc": 1746819481,
+      "source_query": "fucking_love.json"
+    },
+    {
+      "id": "mswato2",
+      "body": "A bunch a plastic fans like you, enjoy crying oil tears tonight",
+      "score": 3,
+      "permalink": "/r/soccer/comments/1koz172/dean_henderson_i_lost_my_dad_at_the_start_of_the/mswato2/",
+      "author": "leemar90",
+      "created_utc": 1747537221,
+      "source_query": "crying.json"
+    },
+    {
+      "id": "m67dsmt",
+      "body": "He’s made an amazing recovery from his stroke/aneurysm/covid vaccine side effect/heart attack/broken neck/spontaneous combustion/boneitis if he’s feeling fine already.",
+      "score": 3,
+      "permalink": "/r/soccer/comments/1hx9g4w/spursofficial_all_good_guys_thank_you_for_the/m67dsmt/",
+      "author": "theglasscase",
+      "created_utc": 1736418878.0,
+      "source_query": "heartbroken.json"
+    },
+    {
+      "id": "mrwsg8x",
+      "body": "Mate he had a hand on winning us things but he didn't singlehandedly win us everything c'mon. \n\nHe's a world class player so we don't want to lose him especially to Madrid the cheating fucks.\n\nIf Kostas Tsimikas had done us we'd say fair good luck but Trent is an amazing player and a local lad who's professed his love for the club and all that shit.. setting up the fanbase to worship him.\n\nNow suddenly he's fucking off? Don't say those things then if your head has already been turned.",
+      "score": 2,
+      "permalink": "/r/soccer/comments/1kk6gkj/liverpool_fans_boo_trent_alexanderarnold_and_sing/mrwsg8x/",
+      "author": "vault101damner",
+      "created_utc": 1747056739,
+      "source_query": "fucking_love.json"
+    },
+    {
+      "id": "mszaa5k",
+      "body": "Not at all, they have all the right to complain, but, \"Even as a City fan, if that happened with a City keeper\", well, it has happened, multiple fucking times in the past 2-3 years and not a single city soul comes here to question it, they just enjoy the \"tears\" in their sub, the same way they love to touch themselves thinking about their lawyers",
+      "score": 1,
+      "permalink": "/r/soccer/comments/1kpgw0q/dale_johnson_fa_cup_var_review_there_have_been/mszaa5k/",
+      "author": "GMBethernal",
+      "created_utc": 1747587092,
+      "source_query": "fucking_love.json"
+    },
+    {
+      "id": "msvi6yp",
+      "body": "Guy is a brainless fucking moron. Sound, scored some goals for us, love him for that; don't want his shit craic on my tele. Somehow has made me watching city lose an unenjoyable experience.",
+      "score": 1,
+      "permalink": "/r/soccer/comments/1kowc0n/dean_henderson_handball_outside_his_box_24/msvi6yp/",
+      "author": "Joey-tnfrd",
+      "created_utc": 1747525538,
+      "source_query": "fucking_love.json"
+    },
+    {
+      "id": "mt0unmo",
+      "body": "In the past Weghorst would actively look for the camera and start crying in front of it, but now he suddenly doesn't like it anymore and feels targeted by the media? Fuck off man.\n\nThis dude is the biggest idiot in Dutch football. He's been that for some years now.",
+      "score": 1,
+      "permalink": "/r/soccer/comments/1kpmvfo/wout_weghorst_punches_away_the_camera_after_ajax/mt0unmo/",
+      "author": "timdeking",
+      "created_utc": 1747605032,
+      "source_query": "crying.json"
+    },
+    {
+      "id": "mstp8a8",
+      "body": "Seeing all the fans crying from happiness, winning their 1st trophy in their history. Can't imagine the feelings of the lifetime fans there.",
+      "score": 1,
+      "permalink": "/r/soccer/comments/1koygt7/crystal_palace_wins_the_2025_fa_cup/mstp8a8/",
+      "author": "Afjoo",
+      "created_utc": 1747503321,
+      "source_query": "crying.json"
+    },
+    {
+      "id": "mcf8enx",
+      "body": "Fuck me the R.S fans in this thread are the worse\n\n\nA man is crying heart broken and their laughing cause he went down easy in a challenge early",
+      "score": 1,
+      "permalink": "/r/soccer/comments/1inz7qb/match_thread_everton_vs_liverpool_english_premier/mcf8enx/",
+      "author": "son_of_toby_o_notoby",
+      "created_utc": 1739390171.0,
+      "source_query": "heartbroken.json"
+    },
+    {
+      "id": "luqpfg7",
+      "body": "Is it a bit of a stretch? Sure definitely but honestly it felt like that's what he was foing. We tried to get him after Monaco. He denied us to go to PSG. \n\nThat's fine, he was young and needed experience and wasn't going to start over Ronaldo. No blame there\n\nThen we tried to get him around 2021, but PSG refused our insane offer. He was reportsdely heart broken and had even made a comic. Reports said he was crying when the deal didn't go through. Again not his fault.\n\n\nBut then the next time his contract was up and he was basically a free agent and he chose to extend after PSG gave him the keys to the kingdom. He then stood in the middle of the Parc des Princes  smiling while the entirety of the fans were changing \"Puta Madrid\".\n\nNow if you say \"oh he had influences from two nations and Macron this and Macaroni that.\" He had that same pressure last season. Yet he decided no not renew. He clearly wanted the signing bonus from PSG this why he used is to get it acting like he was leaving. \n\nSo he did shit on the bench. Took a massive dump on the badge. So it makes sense for people to say it. It's not entirely incorrect, just a very far fetched stretch",
+      "score": 1,
+      "permalink": "/r/soccer/comments/1ggcp4m/relevo_real_madrid_want_to_renew_vinicius/luqpfg7/",
+      "author": "KimngGnmik",
+      "created_utc": 1730401430.0,
+      "source_query": "heartbroken.json"
+    },
+    {
+      "id": "mt3f4sy",
+      "body": "Lobo and Buongiorno are only class players we have. And Buongiorno has been injured for half the season, so he barely counts, and Lobo picked up an injury recently too, so neither count in these 16 players I mentioned.\n\nI would take that year's Giroud over whatever Lukaku is doing since Oct/Nov ina heartbeat.\n\nAny of Milan's top 5 players that year genuinely are worth more than all players that played last night. We were average all year, but grinded out many lucky results(which Im obv happy about!) that put us in this position, as well as Inter and Atalanta shitting the bed. Now we are down 3 best players from the start of the season, and we genuinely play horrid football and would struggle against any half-professional team.",
+      "score": 1,
+      "permalink": "/r/soccer/comments/1kpu8ff/post_match_thread_parma_00_napoli_italian_serie_a/mt3f4sy/",
+      "author": "Then_Flamingo_8223",
+      "created_utc": 1747647192,
+      "source_query": "sohappy.json"
+    },
+    {
+      "id": "msub5rh",
+      "body": "Incredible, you have to love it.\n\nThink of all the fans that go and watch every game despite the fact the team has never won a trophy, they go cos they love the team and love supporting them. So many fans deserve to see their team lift a trophy at some point in their life, I'm so happy for them",
+      "score": 877,
+      "permalink": "/r/soccer/comments/1koz0nk/crystal_palace_lift_the_fa_cup_trophy/msub5rh/",
+      "author": "JessyPengkman",
+      "created_utc": 1747510603,
+      "source_query": "sohappy.json"
+    },
+    {
+      "id": "mszoyux",
+      "body": "The reason he reacted like this was probably precisely because of his reaction on wednesday. He's been the national laughing stock all week because he was on camera crying. Now there's a camera in his face trying to get some more tears for people to laugh at. I kind of get him having a visceral response. I don't think I would do too well with an entire country making fun of me like that for days on end",
+      "score": 85,
+      "permalink": "/r/soccer/comments/1kpmvfo/wout_weghorst_punches_away_the_camera_after_ajax/mszoyux/",
+      "author": "non-relevant",
+      "created_utc": 1747591606,
+      "source_query": "crying.json"
+    },
+    {
+      "id": "mstzcky",
+      "body": "That interviewer came across as such a fucking prick. Love Eze going \"let me go enjoy it!\" And just fucks off",
+      "score": 66,
+      "permalink": "/r/soccer/comments/1koygl7/postmatch_thread_crystal_palace_10_manchester/mstzcky/",
+      "author": "Hot_Parfait_8901",
+      "created_utc": 1747506600,
+      "source_query": "fucking_love.json"
+    },
+    {
+      "id": "msm2qx8",
+      "body": "This shit makes the players fucking love you to\n\nThink from the players perspective. Would you rather play for an org run by a guy you never see who hides in a glass box and makes snarky remarks to the media?\n\nOr would you rather play for an org that is run by guys like this who fucking LOVE this shit?",
+      "score": 44,
+      "permalink": "/r/soccer/comments/1kntpdw/barcelona_president_joan_laporta_was_celebrating/msm2qx8/",
+      "author": "Dan_TheDM",
+      "created_utc": 1747397817,
+      "source_query": "fucking_love.json"
+    },
+    {
+      "id": "msyzju7",
+      "body": "Sadly it's no longer as good natured as it once was, as Hillsborough rhetoric has started to be used quite frequently by the younger generation of Everton fans and it's fucking sickening that they are given many Evertonians lost loved ones that day.",
+      "score": 37,
+      "permalink": "/r/soccer/comments/1kpkmgm/after_a_few_blue_flares_at_the_title_celebrations/msyzju7/",
+      "author": "AgentTasker",
+      "created_utc": 1747583660,
+      "source_query": "fucking_love.json"
+    },
+    {
+      "id": "mszhakx",
+      "body": "This season was just miserable for us. It felt like it never started. It genuinely feels like we're still in September.\n\nMassive injuries one after the other, players not being able to sustain their form, getting severely punished by the \"new rules\" which were scrapped 2 months in.\n\nAlso, we can't seem to recruit properly. We've signed 2 attackers ever since Arteta joined. Jesus and Trossard. We've signed like 10 defenders and 5 pivot midfielders.\n\nAnd also our football is fucking boring. I love Arteta, but like having to watch this dreadful stuff season after season is not fun. And there is a reason it's not working. It's expansive, but we take literally zero risks.",
+      "score": 19,
+      "permalink": "/r/soccer/comments/1kpgheq/daily_discussion/mszhakx/",
+      "author": "Blazien49",
+      "created_utc": 1747589252,
+      "source_query": "fucking_love.json"
+    },
+    {
+      "id": "msulxhq",
+      "body": "Haha city probably will win again next year mate and itll be meaningless, this palace win means more than all your titles in the last 10 years because they are an actual real club that won in a real way, enjoy supporting your soulless cheating  oil club and crying when they lose, we all enjoy watching ❤️",
+      "score": 17,
+      "permalink": "/r/soccer/comments/1koznj0/crystal_palace_we_warned_you/msulxhq/",
+      "author": "Informal_Carob_4015",
+      "created_utc": 1747514154,
+      "source_query": "crying.json"
+    },
+    {
+      "id": "mszhupm",
+      "body": "\nfor longer durations of the first half - i felt Newcastle were better than us. \n\nbut obviously we had the outstanding moment of attack & that turned out to be the winner. \n\nso happy that we saw the game through; and defeated a Newcastle side that has been a thorn in our side especially this season.\n\nRaya absolutely the MOTM for us today.\n\nNot sure how dramatic Arteta's suspension for the Soton game will be a factor; i hope we win but i think a draw will seal 2nd spot for us too?\n\nGreat to see Kai back; and a fond farewell at home for KT & Jorginho.\n\nalso, as much as i love Martinelli; i do feel an upgrade on that position shall be extremely welcome. \n\nand as usual - gloriously terrible refereeing once again. when will this please ffs. Really was scared Hooper was checking for a penalty against us, at the end before he blew the damn whistle.",
+      "score": 13,
+      "permalink": "/r/soccer/comments/1kppelf/post_match_thread_arsenal_10_newcastle_united/mszhupm/",
+      "author": "vyrusrama",
+      "created_utc": 1747589421,
+      "source_query": "sohappy.json"
+    },
+    {
+      "id": "mt21lx0",
+      "body": "Your analogy makes no sense. \n\nIf someone committed five murders we should be allowed to call the murderer names, regardless of how much offensive is for them. In this case Israel is committing genocide, and we should be allowed to call them whatever we want, regardless if they find it antisemitic. Crying antisemitism can’t be a shield when you are committing a genocide. \n\nNow where did the rapist come from?",
+      "score": 11,
+      "permalink": "/r/soccer/comments/1kpw510/gary_lineker_to_quit_bbc_after_antisemitism_row/mt21lx0/",
+      "author": "AlternativeMall4447",
+      "created_utc": 1747620758,
+      "source_query": "crying.json"
+    },
+    {
+      "id": "mrk1a1l",
+      "body": "Well it's fucking stupid but that's how the club feels probably, obviously I would love to have him gone as soon as I can",
+      "score": 8,
+      "permalink": "/r/soccer/comments/1kj4b2y/fabrizio_romano_here_we_go_arsenal_agree_deal_to/mrk1a1l/",
+      "author": "PRL-Five",
+      "created_utc": 1746863910,
+      "source_query": "fucking_love.json"
+    },
+    {
+      "id": "mrs8qij",
+      "body": "Sure, great players. Their squad is full of great players, but I don’t remember ever watching real playing champions league against a good team being “wow what a beautiful game, that’s why I love football”, no it’s usually “wow what a drag, thank god real is losing and will be out next round… no fucking way, how did they score? Unbelievable”",
+      "score": 6,
+      "permalink": "/r/soccer/comments/1kk2plj/barcelona_2_2_real_madrid_lamine_yamal_32/mrs8qij/",
+      "author": "WhiteWolfOW",
+      "created_utc": 1746986316,
+      "source_query": "fucking_love.json"
+    },
+    {
+      "id": "msu8ml7",
+      "body": "Having lost my mom at a relatively young age as well, I know how he feels right now. Achieving or experiencing special moments (big and small) is always somewhat bittersweet. You‘re happy, but you also remember that you can’t share this special moment with someone you love dearly.  \nWriting this, I miss her so much - and it has been three and a half years.",
+      "score": 6,
+      "permalink": "/r/soccer/comments/1koz172/dean_henderson_i_lost_my_dad_at_the_start_of_the/msu8ml7/",
+      "author": "LudoAshwell",
+      "created_utc": 1747509738,
+      "source_query": "sohappy.json"
+    },
+    {
+      "id": "mt3yhdk",
+      "body": "Fucking love Vuskovic, happy to see him called up. Hope Frigan develops more too and earns his call-up, whether it's with us or wherever he goes next year.",
+      "score": 5,
+      "permalink": "/r/soccer/comments/1kq83qz/croatia_squad_for_the_world_cup_qualifiers_vs/mt3yhdk/",
+      "author": "Jeffzie",
+      "created_utc": 1747656964,
+      "source_query": "fucking_love.json"
+    },
+    {
+      "id": "msojclo",
+      "body": " Neto loves that shite fucking cross. Swap Noni and Neto",
+      "score": 5,
+      "permalink": "/r/soccer/comments/1ko8vth/match_thread_chelsea_vs_manchester_united_premier/msojclo/",
+      "author": "taylorstillsays",
+      "created_utc": 1747425093,
+      "source_query": "fucking_love.json"
+    },
+    {
+      "id": "mszdwcl",
+      "body": "Why are you crying? You already won the title? \n\n\nYou're making your mom sad my dude.",
+      "score": 5,
+      "permalink": "/r/soccer/comments/1kpmo2n/match_thread_arsenal_vs_newcastle_united_english/mszdwcl/",
+      "author": "HorseWithFeelings",
+      "created_utc": 1747588217,
+      "source_query": "crying.json"
+    },
+    {
+      "id": "mstoc9c",
+      "body": "Lol at that crying kid. You've won everything in the last few years you little shit.",
+      "score": 5,
+      "permalink": "/r/soccer/comments/1kovbqa/match_thread_crystal_palace_vs_manchester_city_fa/mstoc9c/",
+      "author": "waltershite",
+      "created_utc": 1747503052,
+      "source_query": "crying.json"
+    },
+    {
+      "id": "mstpx8r",
+      "body": "Can't belive my goat marmoush missed a pen... Anyway\n\nFirst ever trophy for palace scince like YEARS, I know that feeling I know that palace fans must be over the moon right now cause the feeling of your team winning their first trophy scince YEARS cannot be replicated so i am really happy for them\n\nAlso it's pretty cool having a team outside the big six win a big trophy\n\nCongrats to palace and can't wait to see you in the europa league next year",
+      "score": 5,
+      "permalink": "/r/soccer/comments/1koygl7/postmatch_thread_crystal_palace_10_manchester/mstpx8r/",
+      "author": "AggressiveRegion1502",
+      "created_utc": 1747503536,
+      "source_query": "sohappy.json"
+    },
+    {
+      "id": "mstosf8",
+      "body": "Amazing game from palace, so happy for them. Fuck City.",
+      "score": 4,
+      "permalink": "/r/soccer/comments/1koygl7/postmatch_thread_crystal_palace_10_manchester/mstosf8/",
+      "author": "LFC908",
+      "created_utc": 1747503188,
+      "source_query": "sohappy.json"
+    },
+    {
+      "id": "msrpmza",
+      "body": "No way , I love his fucking replies. It got me every time, a normal ass soccer post with extra description that somehow morphs into a post about signing Muric because i never check the username. I'm devastated.",
+      "score": 3,
+      "permalink": "/r/soccer/comments/1knz2kf/daily_discussion/msrpmza/",
+      "author": "Owengrad",
+      "created_utc": 1747475189,
+      "source_query": "fucking_love.json"
+    },
+    {
+      "id": "msj5s29",
+      "body": "It's soo beautiful ❤️ Hansi whatever magic you did to my team keep doing it again and again 😭😭 I fucking love you so much ❤️💙",
+      "score": 3,
+      "permalink": "/r/soccer/comments/1knjzol/fc_barcelona_are_the_winners_of_la_liga_2425/msj5s29/",
+      "author": "Pistolsanta",
+      "created_utc": 1747349306,
+      "source_query": "fucking_love.json"
+    },
+    {
+      "id": "msy94jk",
+      "body": "God I fucking love Laca so much and I hate what Textor is doing to this club",
+      "score": 2,
+      "permalink": "/r/soccer/comments/1kp6ef7/ol_les_emotions/msy94jk/",
+      "author": "Jonhl15",
+      "created_utc": 1747574878,
+      "source_query": "fucking_love.json"
+    },
+    {
+      "id": "msu24kz",
+      "body": "So happy for Palace fans, but damn I want that feeling with Everton so bad. If we win ver do win another trophy I will fall to my knees and sob like a baby",
+      "score": 2,
+      "permalink": "/r/soccer/comments/1koyfyl/official_crystal_palace_have_won_the_fa_cup_and/msu24kz/",
+      "author": "mereham2022",
+      "created_utc": 1747507537,
+      "source_query": "sohappy.json"
+    },
+    {
+      "id": "mt36jcz",
+      "body": "He is one emotional man isn't he. Saw him crying after the match, in post-match interview, pres conference as well. For him not even being a year at the club there must be some stuff playing out behind the scenes",
+      "score": 1,
+      "permalink": "/r/soccer/comments/1kq3iy9/francesco_farioli_in_tears_after_possibly_his/mt36jcz/",
+      "author": "NottherealRobert",
+      "created_utc": 1747641671,
+      "source_query": "crying.json"
+    },
+    {
+      "id": "mt14gpm",
+      "body": "soooooo, Arsenal sub making posts about other teams qualifying for UCL by winning a trophy (and crying about it, despite qualifying for the UCL via merit of 2nd or 3rd place and winning nothing, again) which as you said is not related to Arsenal except for their bloated ego calling other teams with far superior histories and more recent cups, smaller teams, and describing themselves as an \"Elite\" club without anything to show for it? Whilst in the real of footballing legacy, they aren't even the biggest team in London this season, as Crystal Palace has more silverware.\n\nFuck yeah, I'm all for that :)",
+      "score": 1,
+      "permalink": "/r/soccer/comments/1kp25mg/pep_hears_a_fan_say_20_times_you_bald_rat/mt14gpm/",
+      "author": "YUSHOETMI-",
+      "created_utc": 1747608461,
+      "source_query": "crying.json"
+    },
+    {
+      "id": "mt0p2qu",
+      "body": "You bums love crying when City get something there way, and now I can’t talk about it? 😂",
+      "score": 1,
+      "permalink": "/r/soccer/comments/1koznj0/crystal_palace_we_warned_you/mt0p2qu/",
+      "author": "Icy_Ad_573",
+      "created_utc": 1747603180,
+      "source_query": "crying.json"
+    },
+    {
+      "id": "msv209r",
+      "body": "Tbf colwell was a big twat the hole game the moment Hojlund pushed back he started crying. Guy is a puss and deserved a yellow EARLY on to calm that shit.",
+      "score": 1,
+      "permalink": "/r/soccer/comments/1kob68r/rasmus_højlund_pulling_levi_colwills_shirt_off/msv209r/",
+      "author": "bollin4whales",
+      "created_utc": 1747519662,
+      "source_query": "crying.json"
+    },
+    {
+      "id": "msty7pw",
+      "body": "Stop crying your heart out, Pep",
+      "score": 1,
+      "permalink": "/r/soccer/comments/1koyj11/an_unhappy_pep_guardiola_has_a_few_words_with/msty7pw/",
+      "author": "MaryadaPurshottam",
+      "created_utc": 1747506216,
+      "source_query": "crying.json"
+    },
+    {
+      "id": "mstom0d",
+      "body": "Seeing palace fans crying everywhere, this is real football - fuck off City",
+      "score": 1,
+      "permalink": "/r/soccer/comments/1koygl7/postmatch_thread_crystal_palace_10_manchester/mstom0d/",
+      "author": "Pidjesus",
+      "created_utc": 1747503134,
+      "source_query": "crying.json"
+    },
+    {
+      "id": "lr2f1xb",
+      "body": "I'm still at a lost of words, when I read it in the morning I never thought I would call our Kloppo a dirty mofo. Even my wife called me from work and said she feels a bit like her heart is broken. And she doesn't even like soccer. That's so crazy, the simulation wants to fuck with us, it wants us to know with all it's might that's this all isn't real. That's the only explanation I can come up with. You all aren't real, you're only in my head! !! \n\nGuess the saying about living long enough to become the villain really is true.",
+      "score": 1,
+      "permalink": "/r/soccer/comments/1fzkrnv/plettenberg_excl_jürgen_klopp_will_become_the_new/lr2f1xb/",
+      "author": "Chemis",
+      "created_utc": 1728466331.0,
+      "source_query": "heartbroken.json"
+    },
+    {
+      "id": "llitt36",
+      "body": "My tears? While the international team I support is dog shit right now, they have 4 world cup wins. So im not exactly heart broken rn.",
+      "score": 1,
+      "permalink": "/r/soccer/comments/1f8y9h4/ballon_dor_nominees_for_the_mens_team_coach_of/llitt36/",
+      "author": "FreshMutzz",
+      "created_utc": 1725481432.0,
+      "source_query": "heartbroken.json"
+    },
+    {
+      "id": "mstpr84",
+      "body": "One of my closest buddies is a crystal palace fan. Just watched the man cry I’m so fucking happy for him",
+      "score": 1,
+      "permalink": "/r/soccer/comments/1koygt7/crystal_palace_wins_the_2025_fa_cup/mstpr84/",
+      "author": "PatchyTheYellow",
+      "created_utc": 1747503484,
+      "source_query": "sohappy.json"
+    },
+    {
+      "id": "ms2f5p0",
+      "body": "Its been confirmed they paid the fucking vice president of the referee Organization. I loved Barça but thats fucking disgusting.",
+      "score": 0,
+      "permalink": "/r/soccer/comments/1kknx1h/barcelona_could_not_believe_the_disgraceful/ms2f5p0/",
+      "author": "ifoundmynewnickname",
+      "created_utc": 1747131601,
+      "source_query": "fucking_love.json"
+    },
+    {
+      "id": "msz44oj",
+      "body": "Ofc not but im sure the cameraman isn’t crying in his bed right now, in fact he’s probably happy asf because his shot is going viral and he’ll be getting paid",
+      "score": 0,
+      "permalink": "/r/soccer/comments/1kpmvfo/wout_weghorst_punches_away_the_camera_after_ajax/msz44oj/",
+      "author": "Flintvlogsgames",
+      "created_utc": 1747585128,
+      "source_query": "crying.json"
+    },
+    {
+      "id": "mt2ugfw",
+      "body": "whatever you say mate. i’ve been supporting for much longer, but you’re clearly the expert here. kinda weird and sad that you are so hateful you have to look through my profile to try and discredit me. this superiority complex is so crazy to me, you’ll never hear american sports fans hate on europeans for their choice in teams, they’re just happy the sport is getting more popular",
+      "score": 0,
+      "permalink": "/r/soccer/comments/1kpgw0q/dale_johnson_fa_cup_var_review_there_have_been/mt2ugfw/",
+      "author": "DaBestNameEver0",
+      "created_utc": 1747634329,
+      "source_query": "sohappy.json"
+    },
+    {
+      "id": "msrn3pn",
+      "body": "No. Fucking love Emi. His shithousery is infectious.",
+      "score": -2,
+      "permalink": "/r/soccer/comments/1kof9kv/emi_martinez_waving_to_the_villa_park_crowd_with/msrn3pn/",
+      "author": "wodmad",
+      "created_utc": 1747473532,
+      "source_query": "fucking_love.json"
+    },
+    {
+      "id": "mt001ad",
+      "body": "This requires Weghorst to know what the cameraman was doing up until then. From his perspective all he sees is a camera being stuck in his face during an emotional moment.\n\nAlso he wouldn't even be wrong in assuming that was what they were looking for; over 50% of the time of that \"nice moment with the fans\" was spent with a close up of Fitz-Jim, simply because he was the one player visibly crying",
+      "score": -4,
+      "permalink": "/r/soccer/comments/1kpmvfo/wout_weghorst_punches_away_the_camera_after_ajax/mt001ad/",
+      "author": "non-relevant",
+      "created_utc": 1747595145,
+      "source_query": "crying.json"
+    },
+    {
+      "id": "mstxrxk",
+      "body": "No shit, but there are plenty of clubs with gaps bigger, it's a running joke with you because Spurs fans have bought into the narrative that they are some how deserving of silverware. Every Spurs pundit is constantly crying about it. No one would mock you if Spurs fans simply shrugged it off and said quite correctly that it's hard to win a trophy and 18 years isn't that long.",
+      "score": -11,
+      "permalink": "/r/soccer/comments/1koymlr/optajoe_1_crystal_palace_have_won_their_first/mstxrxk/",
+      "author": "SP0oONY",
+      "created_utc": 1747506068,
+      "source_query": "crying.json"
+    },
+    {
+      "id": "mt3n0qe",
+      "body": "Idk I find it hilarious seeing Liverpool fans whine about how Trent is so disloyal, then turn around and twerk for one of our legends \n\n(I would want KDB too if I was them but please stop crying and get off your fucking high horse)",
+      "score": -34,
+      "permalink": "/r/soccer/comments/1kq22p4/mo_salah_on_kevin_de_bruyne_i_want_to_tell_him/mt3n0qe/",
+      "author": "radio__raheem",
+      "created_utc": 1747651721,
+      "source_query": "crying.json"
+    },
+    {
+      "id": "msu83ym",
+      "body": "For what breaking an honourable FFP? 😂\n\nYou bums love crying when things go our way but when it's reverse you're quiet.",
+      "score": -118,
+      "permalink": "/r/soccer/comments/1koz172/dean_henderson_i_lost_my_dad_at_the_start_of_the/msu83ym/",
+      "author": "Icy_Ad_573",
+      "created_utc": 1747509562,
+      "source_query": "crying.json"
+    },
+    {
+      "id": "mstpc4o",
+      "body": "/r/soccer crying out for an English Jomboy",
+      "score": 1344,
+      "permalink": "/r/soccer/comments/1koyj11/an_unhappy_pep_guardiola_has_a_few_words_with/mstpc4o/",
+      "author": "nthbeard",
+      "created_utc": 1747503355,
+      "source_query": "crying.json"
+    },
+    {
+      "id": "mstxtvg",
+      "body": "Genuinely one of the happiest days of my life. I fucking love this team",
+      "score": 976,
+      "permalink": "/r/soccer/comments/1koz0nk/crystal_palace_lift_the_fa_cup_trophy/mstxtvg/",
+      "author": "TrueBrees9",
+      "created_utc": 1747506086,
+      "source_query": "fucking_love.json"
+    },
+    {
+      "id": "mshoj5v",
+      "body": "I love this ball boy so much for trolling him after the goal. Well fucking done.",
+      "score": 660,
+      "permalink": "/r/soccer/comments/1kndriw/ajax_substitute_keeper_refused_to_give_the_ball/mshoj5v/",
+      "author": "tswpoker1",
+      "created_utc": 1747333045,
+      "source_query": "fucking_love.json"
+    },
+    {
+      "id": "mszvfhg",
+      "body": "This man just cannot handle alcohol but drinks as much as he can anyways lol. Last year he literally had to be carried away after being a little overzealous on a bottle of Don Julio. I fucking love the guy lol",
+      "score": 391,
+      "permalink": "/r/soccer/comments/1kpr3eu/malik_tillman_gets_completely_hammared_again/mszvfhg/",
+      "author": "Rose_of_Elysium",
+      "created_utc": 1747593669,
+      "source_query": "fucking_love.json"
+    },
+    {
+      "id": "msxwy40",
+      "body": "I fucking love this stupid game",
+      "score": 259,
+      "permalink": "/r/soccer/comments/1kpi5i9/the_moment_everton_mens_team_walkout_at_goodison/msxwy40/",
+      "author": "miregalpanic",
+      "created_utc": 1747569784,
+      "source_query": "fucking_love.json"
+    },
+    {
+      "id": "msu66nr",
+      "body": "Even with João Pereira debuff we won, I'm so fucking happy",
+      "score": 214,
+      "permalink": "/r/soccer/comments/1kp0n34/portuguese_league_final_table_sportings_wins_the/msu66nr/",
+      "author": "diogoarez",
+      "created_utc": 1747508909,
+      "source_query": "sohappy.json"
+    },
+    {
+      "id": "mstpzgi",
+      "body": "When I lived in the UK, I went to more Palace matches than Arsenal matches because they were waaaay cheaper. Palace were in the Championship but Selhurst Park was packed and loud and a great matchday experience. Happy for their fans, who were always so lovely, especially after finding out I was an American from a rural western state",
+      "score": 140,
+      "permalink": "/r/soccer/comments/1koyhse/squawka_crystal_palace_have_won_a_major_topflight/mstpzgi/",
+      "author": "PerBnb",
+      "created_utc": 1747503555,
+      "source_query": "sohappy.json"
+    },
+    {
+      "id": "mrpjztm",
+      "body": "Fucking love Bruno man. As for Ratcliffe, fuck him.",
+      "score": 125,
+      "permalink": "/r/soccer/comments/1kjp6bi/centredeviks_ineos_make_further_cutbacks_for/mrpjztm/",
+      "author": "Banzaikk",
+      "created_utc": 1746944094,
+      "source_query": "fucking_love.json"
+    },
+    {
+      "id": "mt2qeuw",
+      "body": "You literally put into such simplistic words that it's actually abhorrent even trying to comprehend it. A whole people have been dehumanized so much that a fucking mouse emoji is more important than their entire futile existence.\n\nI'm irish, and I have no love for our enduring center right parties, but at least we all agree on genocide.\n\nIt is interesting that imperialists and previous genocidal nations like the UK and Germany would want to silence any critics of Israel.",
+      "score": 84,
+      "permalink": "/r/soccer/comments/1kpw510/gary_lineker_to_quit_bbc_after_antisemitism_row/mt2qeuw/",
+      "author": "thats_pure_cat_hai",
+      "created_utc": 1747632077,
+      "source_query": "fucking_love.json"
+    },
+    {
+      "id": "mstq1ki",
+      "body": "Albanian commentator is crying seeing the Crystal Palace supporters cry.",
+      "score": 83,
+      "permalink": "/r/soccer/comments/1koygl7/postmatch_thread_crystal_palace_10_manchester/mstq1ki/",
+      "author": "Val-El",
+      "created_utc": 1747503573,
+      "source_query": "crying.json"
+    },
+    {
+      "id": "msywg7u",
+      "body": "That \"The Crying One\" insta troll was more insane...",
+      "score": 81,
+      "permalink": "/r/soccer/comments/1kpmlec/mourinho_banner_at_galatasarays_championship_match/msywg7u/",
+      "author": "Strange_College2358",
+      "created_utc": 1747582674,
+      "source_query": "crying.json"
+    },
+    {
+      "id": "mt0jxb7",
+      "body": "Unc getting embarrassing at this point \n\nThe Crying One",
+      "score": 65,
+      "permalink": "/r/soccer/comments/1kpscz1/jose_mourinho_the_way_you_celebrate_a/mt0jxb7/",
+      "author": "moriero",
+      "created_utc": 1747601528,
+      "source_query": "crying.json"
+    },
+    {
+      "id": "msuun9t",
+      "body": "So happy he finally gets that medal after being the bridesmaid with us so many fucking times. Good lad. deserves the best.",
+      "score": 63,
+      "permalink": "/r/soccer/comments/1koz0nk/crystal_palace_lift_the_fa_cup_trophy/msuun9t/",
+      "author": "NeroIscariot12",
+      "created_utc": 1747517070,
+      "source_query": "sohappy.json"
+    },
+    {
+      "id": "msznqrl",
+      "body": "I'm actually crying, goodbye Muslera",
+      "score": 59,
+      "permalink": "/r/soccer/comments/1kpq1jp/89_muslera_galatasaray_3_0_kayserispor/msznqrl/",
+      "author": "orionski",
+      "created_utc": 1747591223,
+      "source_query": "crying.json"
+    },
+    {
+      "id": "mscj0vw",
+      "body": "Our 21/22 season end was absolute fucking pain. Still hurts me to think about it, hearing the crowd randomly erupt over a fake rumor of an equaliser from aston villa. I still love stevie G but he done gave us hope and fucked it up that day.",
+      "score": 57,
+      "permalink": "/r/soccer/comments/1kmqgj8/psv_fans_reacting_to_groningens_goal/mscj0vw/",
+      "author": "More-Possession-1096",
+      "created_utc": 1747260263,
+      "source_query": "fucking_love.json"
+    },
+    {
+      "id": "msxr5d1",
+      "body": "Leeds fans are still crying while he and Koch are absolute leaders at a Champions League Club lol",
+      "score": 57,
+      "permalink": "/r/soccer/comments/1kph9m9/rasmus_kristensen_talking_about_wanting_to_quit/msxr5d1/",
+      "author": "Patrom88",
+      "created_utc": 1747566889,
+      "source_query": "crying.json"
+    },
+    {
+      "id": "msyh5md",
+      "body": "MALIK I LOVE YOU SO FUCKING MUCH I BEG YOU STAY WELL GIVE YOU ALL THE DON JULIO YOUD LIKE",
+      "score": 53,
+      "permalink": "/r/soccer/comments/1kpkykz/sparta_rotterdam_1_3_psv_malik_tillman_84/msyh5md/",
+      "author": "Rose_of_Elysium",
+      "created_utc": 1747577736,
+      "source_query": "fucking_love.json"
+    },
+    {
+      "id": "msywq59",
+      "body": "Don’t care, still promoted *insert crying under the mask meme*",
+      "score": 46,
+      "permalink": "/r/soccer/comments/1kpmpyu/1_fc_köln_are_champions_of_2_bundesliga/msywq59/",
+      "author": "BarfussAmKlavier",
+      "created_utc": 1747582764,
+      "source_query": "crying.json"
+    },
+    {
+      "id": "mstpcvn",
+      "body": "Perennial cheaters crying over being cheated.\n\nIt's like heroin.",
+      "score": 46,
+      "permalink": "/r/soccer/comments/1koygl7/postmatch_thread_crystal_palace_10_manchester/mstpcvn/",
+      "author": "EyUpItsDan",
+      "created_utc": 1747503361,
+      "source_query": "crying.json"
+    },
+    {
+      "id": "ms0k8po",
+      "body": "If it were me I'd fucking love to play CL while there's a good 12 extra teams or so above me. Their bitterness would make it all the better",
+      "score": 45,
+      "permalink": "/r/soccer/comments/1kl7tj1/son_i_texted_kane_and_he_called_me_back_on_a/ms0k8po/",
+      "author": "Harlequin37",
+      "created_utc": 1747099037,
+      "source_query": "fucking_love.json"
+    },
+    {
+      "id": "mrsgx70",
+      "body": "I remember going to a Fulham game, and having this insanely small entry, and then sitting in a pretty old wooden stand.\n\nFucking loved it, would definitely still prefer that",
+      "score": 44,
+      "permalink": "/r/soccer/comments/1kk7mvg/inside_fulhams_revamped_100m_riverside_stand/mrsgx70/",
+      "author": "OLAAF",
+      "created_utc": 1746988984,
+      "source_query": "fucking_love.json"
+    },
+    {
+      "id": "mt08qr8",
+      "body": "With today's results the fight to avoid the last relegation spot will be between Leganés (37p) and Espanyol (39p).\n\nBoth teams play home, the first vs 20th place Valladolid and the second against 19th place Las Palmas, quite the thematic teams for that situation.\n\nIf Leganés wins Espanyol is forced to get the 3 points since they have the head to head lost vs them... I'm honestly smelling a tragic day coming to Cornellà despite depending on themselves.\n\nIn more personal news, happy that we managed to win in Imanol's last match for us at home, the celebrations and hugs to him after goals got me so emotional q_q",
+      "score": 37,
+      "permalink": "/r/soccer/comments/1kpsrhj/laliga_table_after_matchday_37/mt08qr8/",
+      "author": "MetaThPr4h",
+      "created_utc": 1747597986,
+      "source_query": "sohappy.json"
+    },
+    {
+      "id": "mt07ium",
+      "body": "Fucking love it! Purely symbolic but such a great message. The man never complained, he always gave 110% and he converted the penalty that gave us the joint biggest achievement in club history. What a guy!",
+      "score": 36,
+      "permalink": "/r/soccer/comments/1kpskhw/eintracht_frankfurt_a_lifetime_of_eintracht/mt07ium/",
+      "author": "TheCatInTheHatThings",
+      "created_utc": 1747597589,
+      "source_query": "fucking_love.json"
+    },
+    {
+      "id": "msu6cd4",
+      "body": "How about you hold that L and stop crying in the internet instead you muppet",
+      "score": 31,
+      "permalink": "/r/soccer/comments/1koz172/dean_henderson_i_lost_my_dad_at_the_start_of_the/msu6cd4/",
+      "author": "Zlevi04",
+      "created_utc": 1747508963,
+      "source_query": "crying.json"
+    },
+    {
+      "id": "mstparg",
+      "body": "Palace putting sportswashing cheats in the fucking ground. \n\nEveryone loves Palace today!\n\nWell done lads, absolute gladiators. So deserved.",
+      "score": 29,
+      "permalink": "/r/soccer/comments/1koygl7/postmatch_thread_crystal_palace_10_manchester/mstparg/",
+      "author": "Vikingchap",
+      "created_utc": 1747503343,
+      "source_query": "fucking_love.json"
+    },
+    {
+      "id": "mrgpkdb",
+      "body": "Still love Ings from his Liverpool days. The unluckiest fucking player.",
+      "score": 29,
+      "permalink": "/r/soccer/comments/1kihntu/west_ham_cresswell_fabiański_coufal_and_ings_to/mrgpkdb/",
+      "author": "hailstruckler",
+      "created_utc": 1746816262,
+      "source_query": "fucking_love.json"
+    },
+    {
+      "id": "mszex5l",
+      "body": "I'm sure he's crying into his 2 champions league medals and 6 league wins in England, Spain and Italy.",
+      "score": 26,
+      "permalink": "/r/soccer/comments/1kpmlec/mourinho_banner_at_galatasarays_championship_match/mszex5l/",
+      "author": "el__bee",
+      "created_utc": 1747588529,
+      "source_query": "crying.json"
+    },
+    {
+      "id": "mszqnz9",
+      "body": "Good work lad. Now celebrate that instead of crying for arsenal attention",
+      "score": 22,
+      "permalink": "/r/soccer/comments/1kppe5o/arsenal_have_qualified_for_the_202526_champions/mszqnz9/",
+      "author": "Cleon189",
+      "created_utc": 1747592143,
+      "source_query": "crying.json"
+    },
+    {
+      "id": "msgyhhu",
+      "body": "People love ignoring the mantra \"your freedom ends where another person's freedom gets infringed upon\". Every fucking cunt is always \"MY freedom\".",
+      "score": 19,
+      "permalink": "/r/soccer/comments/1kn8wjl/valladolid_fans_sentenced_to_one_year_in_prison/msgyhhu/",
+      "author": "DivineContamination",
+      "created_utc": 1747325514,
+      "source_query": "fucking_love.json"
+    },
+    {
+      "id": "msc0gnv",
+      "body": "Montpellier must have a 100% injury rate, their players all seem to be fucking blind. Absolutely dreadful team they had, and with their ownership (Louis Nicollin, who loved the club, died in 2017 and his son is less enamoured with the club) they might start to seriously spiral down the drain.",
+      "score": 19,
+      "permalink": "/r/soccer/comments/1kmph3i/total_injuries_ligue_1_202425/msc0gnv/",
+      "author": "R_Schuhart",
+      "created_utc": 1747254528,
+      "source_query": "fucking_love.json"
+    },
+    {
+      "id": "mszk006",
+      "body": "you'r the one who talks about fenerbahce even when you \"win\". I just congratulate Gs for their win and move on. Not crying like \"oh they made refs to give us yellow cards\".",
+      "score": 18,
+      "permalink": "/r/soccer/comments/1kppb80/galatasaray_selfie_goal_celebration_which/mszk006/",
+      "author": "Reason_towearcondoms",
+      "created_utc": 1747590075,
+      "source_query": "crying.json"
+    },
+    {
+      "id": "mrw4idm",
+      "body": "Liverpool’s chant for Gerrard really has the line “he’s big and he’s fucking hard”, they love him even  more than I realised",
+      "score": 17,
+      "permalink": "/r/soccer/comments/1kk5pz1/daily_discussion/mrw4idm/",
+      "author": "altetaharam",
+      "created_utc": 1747046726,
+      "source_query": "fucking_love.json"
+    },
+    {
+      "id": "mrjoe57",
+      "body": "Italians for some reason fucking love the stuff.",
+      "score": 16,
+      "permalink": "/r/soccer/comments/1kixqvv/cesc_fàbregas_is_awarded_philadelphia_coach_of/mrjoe57/",
+      "author": "Djb0623",
+      "created_utc": 1746856326,
+      "source_query": "fucking_love.json"
+    },
+    {
+      "id": "mt3kerc",
+      "body": "There was a man city fan, about 5 or 6 maybe, crying in the crowd at Wembley. Obviously we're all here for that and the kid will be a better fan for it, but the person sitting next to him who im guessing was his dad but probably wasnt his dad was in a norway shirt, presumably for Haaland.\n\nAbsolutely right into the sun. Combine that with pep wearing a t shirt to Wembley for the cup final and the trophy should have been given to palace immediately. There should be a bouncer outside the changing rooms enforcing a dress code for managers.\n\nAlso i swear not being suited and booted is like a bad omen for wembley. Teams always seem more prone to bottlejobs when not attired.",
+      "score": 16,
+      "permalink": "/r/soccer/comments/1kq70kg/monday_moan/mt3kerc/",
+      "author": "I_miss_Chris_Hughton",
+      "created_utc": 1747650315,
+      "source_query": "crying.json"
+    },
+    {
+      "id": "mszoqyj",
+      "body": "Cheers, Ashley Young's crying now",
+      "score": 16,
+      "permalink": "/r/soccer/comments/1kpmg1l/an_everton_fan_brought_the_ashes_of_their_father/mszoqyj/",
+      "author": "Zal_17",
+      "created_utc": 1747591537,
+      "source_query": "crying.json"
+    },
+    {
+      "id": "msz4e4v",
+      "body": "Big man, you are the one out here crying that this post shouldnt exist and we shouldnt play attention. While at the same time commenting and living every second of it. \n\nWho is the Braindead person here?",
+      "score": 16,
+      "permalink": "/r/soccer/comments/1kpmjdl/croatia_u15_0_1_portugal_u15_cristiano_ronaldo_jr/msz4e4v/",
+      "author": "teraluz",
+      "created_utc": 1747585211,
+      "source_query": "crying.json"
+    },
+    {
+      "id": "msukaxl",
+      "body": "Lost my dad at 22. I'm 38 now. Burst out crying when he said that. Fair play to him! What a performance. Very lucky to have dodged the DOGSO.\n\nGood process boys.",
+      "score": 15,
+      "permalink": "/r/soccer/comments/1koz172/dean_henderson_i_lost_my_dad_at_the_start_of_the/msukaxl/",
+      "author": "hambodpm",
+      "created_utc": 1747513616,
+      "source_query": "crying.json"
+    },
+    {
+      "id": "msuoz1k",
+      "body": "So happy for Palace. Love an underdog win. Gives us all hope.",
+      "score": 14,
+      "permalink": "/r/soccer/comments/1koqb7h/daily_discussion/msuoz1k/",
+      "author": "baldy-84",
+      "created_utc": 1747515148,
+      "source_query": "sohappy.json"
+    },
+    {
+      "id": "msupexw",
+      "body": "\"Why are they crying about me subverting the sport with Arab blood money!\" \n\nGod, imagine living your life as a City fan.",
+      "score": 13,
+      "permalink": "/r/soccer/comments/1koyj11/an_unhappy_pep_guardiola_has_a_few_words_with/msupexw/",
+      "author": "Puzzleheaded-Cry2219",
+      "created_utc": 1747515293,
+      "source_query": "crying.json"
+    },
+    {
+      "id": "msp0kdm",
+      "body": "Love me some shameless time wasting. Massive three points lets fucking go",
+      "score": 12,
+      "permalink": "/r/soccer/comments/1koc413/postmatch_thread_chelsea_10_manchester_united/msp0kdm/",
+      "author": "C1nderrr",
+      "created_utc": 1747430365,
+      "source_query": "fucking_love.json"
+    },
+    {
+      "id": "mstoq6f",
+      "body": "A lot of middle aged men crying out there. Well done.",
+      "score": 12,
+      "permalink": "/r/soccer/comments/1kovbqa/match_thread_crystal_palace_vs_manchester_city_fa/mstoq6f/",
+      "author": "BrandNew85",
+      "created_utc": 1747503169,
+      "source_query": "crying.json"
+    },
+    {
+      "id": "msymlbb",
+      "body": "I fucking love a good long throw",
+      "score": 11,
+      "permalink": "/r/soccer/comments/1kplloc/brentford_2_1_fulham_yoane_wissa_43/msymlbb/",
+      "author": "powerchicken",
+      "created_utc": 1747579500,
+      "source_query": "fucking_love.json"
+    }
+  ]
+}
