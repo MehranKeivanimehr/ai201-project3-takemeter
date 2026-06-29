@@ -61,6 +61,35 @@ These distinctions reflect how regular r/soccer users actually talk about discou
 
 ## Hard Edge Cases
 
+These are real examples from my labeled dataset where the correct label was genuinely unclear. I include them here to show how I applied the decision rules in practice.
+
+### Difficult example 1: Bold Opinion / Hot Take vs. Emotional Reaction
+
+**Post:**
+> “I don't know, I feel like Messi would have cured Rodrygo right there and then. Poor show from Ronaldo really.”
+
+**Possible labels:** Emotional Reaction or Bold Opinion / Hot Take.
+
+**Decision:** I labeled it **Bold Opinion / Hot Take**. The comment contains emotional framing ("Poor show"), but if you remove the emotional language, a substantive evaluative claim remains: Messi would have handled the situation better than Ronaldo. That is a football judgment, not pure feeling.
+
+### Difficult example 2: Evidence-Based Take vs. Emotional Reaction
+
+**Post:**
+> “‘Could have achieved incredible things’ I mean…most of his goals were scored after that, he may have scored fewer if the injury had never happened and he never played striker. We’re talking about one of the all time greats here.”
+
+**Possible labels:** Emotional Reaction or Evidence-Based Take.
+
+**Decision:** I labeled it **Evidence-Based Take**. The comment defends Ronaldo's post-injury career with a structured counterargument — it engages with the hypothetical, references his goal output, and reasons through the claim. The emotional attachment to R9 is present but does not dominate the comment.
+
+### Difficult example 3: Evidence-Based Take vs. Emotional Reaction
+
+**Post:**
+> “I've been a devout fan and supporter of Klose all my life (coming from an Upper Silesian family, he has been an inspiration, almost a hero, for us) and although I am of course sad right now, I am glad for the past 12 years and how they kept him in international conversation. Records are broken, but the legend remains.”
+
+**Possible labels:** Evidence-Based Take or Emotional Reaction.
+
+**Decision:** I labeled it **Emotional Reaction**. The comment references a record being broken, but the dominant thrust is personal reflection, devotion, and sadness. Removing the emotional language would leave almost nothing substantive.
+
 ### Ambiguous type 1: Evidence-Based Take vs. Bold Opinion / Hot Take
 A post cites real stats but uses them to support a sweeping or provocative conclusion that the evidence does not justify.
 
