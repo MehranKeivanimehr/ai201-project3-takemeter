@@ -153,19 +153,19 @@ The fine-tuned model predicted **Evidence-Based Take** for 24 out of 30 test exa
 
 ## Sample Classifications
 
-The following table shows five test-set predictions made by the fine-tuned model. All five are errors, which is representative of the model's overall struggle: it got only 15 out of 30 test examples correct.
+The following table shows five posts run through the fine-tuned model. Only the first prediction is correct; the other four are errors, which is representative of the model's overall struggle: it got only 15 out of 30 test examples correct.
 
 | Text | True Label | Predicted Label | Confidence |
 |---|---|---|---|
-| "I did, he was absolutely amazing but he wasn't Messi getting 91 goals in a calendar year, or something like 115 goal contributions in 70 games The people who really think R9 was better than Messi are going off of potential, which is silly." | Bold Opinion / Hot Take | Evidence-Based Take | 0.37 |
-| "Legendary. I don't even care how far they'll go, they made it out of the groups in their first World Cup. This is why I love this fucking tournament." | Emotional Reaction | Evidence-Based Take | 0.35 |
-| "I pity Portugal. I feel someone in particular will now shoot every time he gets the ball." | Emotional Reaction | Bold Opinion / Hot Take | 0.35 |
-| "Had no idea the fennec fox was the national animal of Algeria." | Bold Opinion / Hot Take | Evidence-Based Take | 0.37 |
-| "Barcelona news -------> Sees Daily Mail ------------> Leaves." | Bold Opinion / Hot Take | Emotional Reaction | 0.33 |
+| "A good metric that can correlate this intensity is PPDA. Bournemouth are 1st in PPDA and 5th in OPPDA. They're certainly very heavy on the press and quite direct." | Evidence-Based Take | Evidence-Based Take | 0.350 |
+| "R9 is overrated overall is my hot take, people put him in the GOAT conversation when he's had neither the peak or longevity." | Bold Opinion / Hot Take | Evidence-Based Take | 0.352 |
+| "I'm heartbroken. This season is so hard to swallow in all kinds of ways. Textor just can't be allowed to ruin our club like that." | Emotional Reaction | Evidence-Based Take | 0.346 |
+| "I did, he was absolutely amazing but he wasn't Messi getting 91 goals in a calendar year, or something like 115 goal contributions in 70 games The people who really think R9 was better than Messi are going off of potential, which is silly." | Bold Opinion / Hot Take | Evidence-Based Take | 0.370 |
+| "Legendary. I don't even care how far they'll go, they made it out of the groups in their first World Cup. This is why I love this fucking tournament." | Emotional Reaction | Evidence-Based Take | 0.356 |
 
-The model's correct predictions were almost entirely confined to the Evidence-Based Take class. For example, a comment explaining PPDA and applying it to Bournemouth's pressing style would be correctly labeled Evidence-Based Take, because the comment defines a metric and uses it to support a tactical observation. That prediction is reasonable because the text structure directly matches the label definition. The errors above, however, show that the model could not reliably distinguish opinion and emotion from evidence.
+The first prediction is correct and reasonable: the comment defines a metric and applies it to a team, which directly matches the Evidence-Based Take label definition. The other four predictions show the model's tendency to default to Evidence-Based Take whenever it sees factual language, even when the post is actually a hot take or emotional reaction.
 
-(Note: confidence scores are taken directly from the fine-tuned model's softmax outputs on the test set.)
+(Note: confidence scores are taken directly from the fine-tuned model's softmax outputs.)
 
 ## Error Analysis
 
@@ -177,7 +177,9 @@ I analyzed the 15 wrong predictions from the test set. Three representative fail
 > “I did, he was absolutely amazing but he wasn't Messi getting 91 goals in a calendar year, or something like 115 goal contributions in 70 games The people who really think R9 was better than Messi are going off of potential, which is silly.”
 
 **True label:** Bold Opinion / Hot Take  
-**Predicted:** Evidence-Based Take (confidence: 0.37)
+**Predicted:** Evidence-Based Take (confidence: 0.370)
+
+This corresponds to **Example 4** in the Sample Classifications table above.
 
 **Analysis:** This is a R9 vs. Messi opinion dressed up with statistics. The numbers are cherry-picked to support a provocative claim. The model saw the specific goal totals and assumed the comment was structured evidence, missing that the central claim is evaluative and debatable. This reveals that the model did not learn to judge whether evidence is proportionate to the conclusion.
 
@@ -187,19 +189,23 @@ I analyzed the 15 wrong predictions from the test set. Three representative fail
 > “Legendary. I don't even care how far they'll go, they made it out of the groups in their first World Cup. This is why I love this fucking tournament.”
 
 **True label:** Emotional Reaction  
-**Predicted:** Evidence-Based Take (confidence: 0.35)
+**Predicted:** Evidence-Based Take (confidence: 0.356)
+
+This corresponds to **Example 5** in the Sample Classifications table above.
 
 **Analysis:** The comment is almost pure emotional celebration. Phrases like “Legendary,” “I don't even care,” and “I love this fucking tournament” are clear emotional markers. However, the model latched onto the factual clause “made it out of the groups in their first World Cup” and classified the whole comment as evidence-based. This shows the model over-weighted factual mentions and under-weighted emotional language.
 
-### Error 3: Emotional reaction misclassified as hot take
+### Error 3: Explicit hot take misclassified as evidence-based
 
 **Text:**
-> “I pity Portugal. I feel someone in particular will now shoot every time he gets the ball.”
+> “R9 is overrated overall is my hot take, people put him in the GOAT conversation when he's had neither the peak or longevity.”
 
-**True label:** Emotional Reaction  
-**Predicted:** Bold Opinion / Hot Take (confidence: 0.35)
+**True label:** Bold Opinion / Hot Take  
+**Predicted:** Evidence-Based Take (confidence: 0.352)
 
-**Analysis:** The comment is emotionally framed (“I pity Portugal,” “I feel”) and makes a hyperbolic prediction about Ronaldo's behavior. The model saw the evaluative claim and classified it as a hot take, missing that the comment's primary purpose is venting frustration rather than making a football argument. This illustrates the boundary ambiguity between emotional opinion and provocative assertion.
+This corresponds to **Example 2** in the Sample Classifications table above.
+
+**Analysis:** The comment literally says “my hot take” and makes a strong evaluative judgment about R9 without providing evidence. The model should have recognized this as a Bold Opinion / Hot Take, but it predicted Evidence-Based Take anyway. This shows the model did not learn the explicit linguistic cues that distinguish hot takes from analysis — it simply defaulted to its preferred label.
 
 ## Failure Pattern Analysis
 
