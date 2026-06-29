@@ -41,6 +41,26 @@ I designed three mutually exclusive labels:
 
 The dataset is reasonably balanced, with no label above 40%.
 
+### Difficult-to-label examples
+
+**Example 1:**
+> “This was quite the season. First I didnt expect us to be in contention for the top spots because of the necessary rebuild, we ended up in a title race but then we bottled it. So that means mixed feelings, I’m proud because we ended up being only 2 points away from the title but disappointed because we bottled a 9 point lead in the last 5 games.”
+
+**Possible labels:** Evidence-Based Take or Emotional Reaction.  
+**Decision:** Emotional Reaction. The main thrust is the fan's mixed feelings and catharsis; the “bottled it” claim is not developed with specific tactical or statistical evidence.
+
+**Example 2:**
+> “I don't know, I feel like Messi would have cured Rodrygo right there and then. Poor show from Ronaldo really.”
+
+**Possible labels:** Emotional Reaction or Bold Opinion / Hot Take.  
+**Decision:** Bold Opinion / Hot Take. Removing the emotional framing leaves a substantive evaluative claim about Messi and Ronaldo.
+
+**Example 3:**
+> “‘Could have achieved incredible things’ I mean…most of his goals were scored after that, he may have scored fewer if the injury had never happened and he never played striker. We’re talking about one of the all time greats here.”
+
+**Possible labels:** Emotional Reaction or Evidence-Based Take.  
+**Decision:** Evidence-Based Take. The comment defends Ronaldo's post-injury career with a structured counterargument and references his goal output.
+
 ## Model and Training
 
 - **Base model:** `distilbert-base-uncased` (Hugging Face)
@@ -68,6 +88,38 @@ I kept the default hyperparameters because they are well-suited for small datase
 | Change | **-0.100** |
 
 The fine-tuned model underperformed the zero-shot baseline by 10 percentage points.
+
+### Baseline prompt
+
+The zero-shot baseline used `llama-3.3-70b-versatile` via Groq. The system prompt included the three label definitions from `planning.md`, one example per label, and an instruction to output only the label name. The prompt was:
+
+```
+You are classifying comments from r/soccer, a Reddit community for football/soccer discussion.
+
+Assign each comment to exactly one of the following categories:
+
+Evidence-Based Take: A comment that supports its central claim with relevant statistics, tactical concepts, video evidence, or a structured chain of reasoning, where the evidence is proportionate to the claim and not cherry-picked.
+
+Bold Opinion / Hot Take: A strong evaluative judgment asserted without substantial evidence or careful reasoning, or evidence that is thin, cherry-picked, or disproportionate to the conclusion. Often designed to provoke.
+
+Emotional Reaction: A comment whose primary purpose is expressing feeling — joy, anger, heartbreak, disbelief, pride — rather than analyzing or arguing.
+
+Examples:
+Evidence-Based Take: "A good metric that can correlate this intensity is PPDA. Bournemouth are 1st in PPDA and 5th in OPPDA. They're certainly very heavy on the press and quite direct."
+Bold Opinion / Hot Take: "R9 is overrated overall is my hot take, people put him in the GOAT conversation when he's had neither the peak or longevity."
+Emotional Reaction: "I'm heartbroken. This season is so hard to swallow in all kinds of ways. Textor just can't be allowed to ruin our club like that."
+
+Respond with ONLY the label name.
+Do not explain your reasoning.
+Do not add punctuation.
+
+Valid labels:
+Evidence-Based Take
+Bold Opinion / Hot Take
+Emotional Reaction
+```
+
+The baseline was run on the same locked test set (30 examples) used to evaluate the fine-tuned model.
 
 ### Per-class metrics
 
