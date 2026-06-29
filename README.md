@@ -6,6 +6,12 @@ TakeMeter is a fine-tuned text classifier that evaluates discourse quality in **
 
 I chose r/soccer because its comments vary dramatically in quality within the same thread: some users post tactical analysis backed by statistics, others post provocative hot takes, and others react emotionally to match events. The community itself values evidence and context, so distinguishing these modes of discourse is meaningful to regular participants.
 
+## Demo Video
+
+A 3–5 minute walkthrough of the classifier in action, including live predictions, one correct example, one incorrect example, and a review of the evaluation report:
+
+**[Watch the demo on Loom](https://www.loom.com/share/bff8d341c38f48af866fbe95633d6fe7)**
+
 ## Label Taxonomy
 
 I designed three mutually exclusive labels:
