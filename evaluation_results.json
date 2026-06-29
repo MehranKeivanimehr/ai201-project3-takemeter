@@ -1,0 +1,12 @@
+{
+  "baseline_accuracy": 0.6,
+  "finetuned_accuracy": 0.5,
+  "improvement": -0.1,
+  "test_set_size": 30,
+  "label_map": {
+    "Evidence-Based Take": 0,
+    "Bold Opinion / Hot Take": 1,
+    "Emotional Reaction": 2
+  },
+  "model": "distilbert-base-uncased"
+}
