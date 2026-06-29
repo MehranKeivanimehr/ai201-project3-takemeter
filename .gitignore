@@ -1,0 +1,20 @@
+# Project artifacts not needed in repo
+Copy_of_ai201_project3_takemeter_starter_clean.ipynb
+build_dataset.py
+dump_candidates.py
+list_emotional.py
+select_candidates.py
+view_hot.py
+view_id.py
+view_ids.py
+soccer_comments/
+takemeter_dataset.json
+
+# Secrets and environment
+.env
+*.key
+
+# Model outputs (generated in Colab)
+takemeter-model/
+__pycache__/
+*.pyc
